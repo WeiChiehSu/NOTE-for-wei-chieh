@@ -147,7 +147,7 @@ $$
 
 $$
 Normarl:n(r)\Longrightarrow Spin{}martix:n_{\alpha \beta } (r)=\begin{pmatrix}
- 1 &2 \\
- 3 &4
+ n_{\uparrow \uparrow } (r) &n_{\uparrow \downarrow } (r) \\
+ n_{\downarrow \uparrow} (r) &4n_{\downarrow \downarrow} (r)
 \end{pmatrix}
 $$

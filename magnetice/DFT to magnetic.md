@@ -146,5 +146,8 @@ $$
 $$
 
 $$
-Normarl:n(r)\Longrightarrow Spin{}g
+Normarl:n(r)\Longrightarrow Spin{}martix:n_{\alpha \beta } (r)=\begin{pmatrix}
+ 1 &2 \\
+ 3 &4
+\end{pmatrix}
 $$

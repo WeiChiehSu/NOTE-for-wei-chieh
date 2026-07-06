@@ -68,7 +68,7 @@ $$
 \begin{aligned}
 \text{1.Guess-charge-density:} \, n(r) \\
 \Downarrow \\
-\text{2.Poisson-eq:} \, \nabla^2 V_{\text{Hatree}}(r) = -4 \pi n(r) \\
+\text{2.Poisson-eq:} \, \nabla^2 V_{\text{Hatree}}(r) = -4 \pi n(r) ; \frac{\delta E_{XC} }{\delta n(r)} = V_{xc} (r)\\
 \Downarrow \\
 \text{3.KS-eq:} \left[ -\frac{\nabla^2 r}{2} + V_{\text{SCF}}(r) + V_{\text{Hatree}}(r) \right] \Psi(r) = \varepsilon \Psi(r) \\
 \Downarrow \\

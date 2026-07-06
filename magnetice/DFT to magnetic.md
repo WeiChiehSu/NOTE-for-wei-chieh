@@ -131,4 +131,9 @@ $$
 
 Using density functional theory (DFT), we can obtain the ground-state electron density of a material, from which the ground-state energy and ground-state wavefunctions can be determined. The DFT framework can also be extended to consider how the properties of a material change when a perturbation is introduced. This extension is known as density functional perturbation theory (DFPT).
 
-# magnetic correction DFT
+# magnetic correction DFT(磁性修正DFT)
+
+$$
+Normal:n(r)[scalar]\longrightarrow Spin:strengh(r)[scalar]+direction(r)[vector]
+$$
+

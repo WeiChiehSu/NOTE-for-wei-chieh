@@ -158,3 +158,7 @@ Normarl:n(r)=\left \langle \psi(r)  | \psi(r)  \right \rangle  \Longrightarrow S
  n_{\downarrow \uparrow} (r) &n_{\downarrow \downarrow} (r)
 \end{pmatrix}
 $$
+
+$$
+3d{}vector:V=v_{x} \widehat{x}+v_{y} \widehat{y} +v_{z} \widehat{z}\Longrightarrow 2X2{}martix:A=A_{0}I+\sigma _{x} a_{x}+\sigma _{y} a_{y}+\sigma _{z} a_{z} 
+$$

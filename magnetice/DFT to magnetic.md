@@ -58,7 +58,12 @@ $$
 
 Hatree項代表單個電子和由全部電子組成的電荷密度間產生的庫倫排斥.
 
+
 The Hartree term represents the Coulomb repulsion between a single electron and the charge density formed by all electrons.
+
+$$
+\frac{\delta E_{XC} }{\delta n(r)} = V_{xc} (r)
+$$
 
 DFT的數值計算方式如下:
 

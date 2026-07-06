@@ -134,10 +134,6 @@ Using density functional theory (DFT), we can obtain the ground-state electron d
 # magnetic correction DFT(磁性修正DFT)
 
 $$
-Normal:n(r)[scalar]\longrightarrow Spin:strengh(r)[scalar]+direction(r)[vector]
-$$
-
-$$
 Normal:n(r)=\sum_{\alpha }^{} \left \langle \psi  \right | \psi_{\alpha }^{*}(r)\psi _{\alpha }^{}(r) \left | \psi  \right \rangle   
 $$
 
@@ -157,6 +153,10 @@ Normarl:n(r)=\left \langle \psi(r)  | \psi(r)  \right \rangle  \Longrightarrow S
  n_{\uparrow \uparrow } (r) &n_{\uparrow \downarrow } (r) \\
  n_{\downarrow \uparrow} (r) &n_{\downarrow \downarrow} (r)
 \end{pmatrix}
+$$
+
+$$
+Normal:n(r)[scalar]\longrightarrow Spin:strengh(r)[scalar]+direction(r)[vector]
 $$
 
 $$

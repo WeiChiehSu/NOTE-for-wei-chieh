@@ -1,1 +1,0 @@
-physics note for me

@@ -146,7 +146,9 @@ $$
 $$
 
 $$
-
+Normarl:\left | \psi(r)  \right \rangle \Longrightarrow Spin:\left | \psi(r)  \right \rangle =\begin{pmatrix}
+\psi_{\uparrow }(r)   \\ \psi_{\downarrow } (r) 
+\end{pmatrix}
 $$
 
 $$

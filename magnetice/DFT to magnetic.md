@@ -164,9 +164,6 @@ $$
 $$
 
 $$
-
-
-$$
 n(r)=\frac{1}{2}(n(r)I+\sigma .S(r))=total{}electron{}density+spin{}direction{}trend
 $$
 

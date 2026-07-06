@@ -162,3 +162,7 @@ $$
 $$
 3d{}vector:V=v_{x} \widehat{x}+v_{y} \widehat{y} +v_{z} \widehat{z}\Longrightarrow 2X2{}martix:A=A_{0}I+\sigma _{x} a_{x}+\sigma _{y} a_{y}+\sigma _{z} a_{z} 
 $$
+
+$$
+n(r)=\frac{1}{2}(n(r)I+\sigma .S(r))=total{}electron{}density+spin{}direction{}trend
+$$

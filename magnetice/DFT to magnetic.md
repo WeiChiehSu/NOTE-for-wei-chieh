@@ -164,5 +164,21 @@ $$
 $$
 
 $$
+
+
+$$
 n(r)=\frac{1}{2}(n(r)I+\sigma .S(r))=total{}electron{}density+spin{}direction{}trend
+$$
+
+$$
+\sigma .S(r)=\sigma _{x} .s_{x}+\sigma _{y} .s_{y}+\sigma _{z} .s_{z}=\begin{pmatrix}
+ 0 & 1\\
+ 1 & 0
+\end{pmatrix}s_{x}+\begin{pmatrix}
+0  &-i\\
+i  & 0
+\end{pmatrix}s_{y}+\begin{pmatrix}
+1  & 0\\
+0  & -1
+\end{pmatrix}s_{z}
 $$

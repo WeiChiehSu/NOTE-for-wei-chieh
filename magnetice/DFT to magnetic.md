@@ -147,8 +147,8 @@ $$
 
 $$
 Normarl:\left | \psi(r)  \right \rangle \Longrightarrow Spin:\left | \psi(r)  \right \rangle =\begin{pmatrix}
-\psi_{\uparrow }(r)  & 3\\
-\psi_{\downarrow } (r)  & 4
+\psi_{\uparrow }(r)  & \\
+\psi_{\downarrow } (r)  & 
 \end{pmatrix}
 $$
 

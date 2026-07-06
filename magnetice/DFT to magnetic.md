@@ -63,7 +63,11 @@ The Hartree term represents the Coulomb repulsion between a single electron and 
 
 $$
 \frac{\delta E_{XC} }{\delta n(r)} = V_{xc} (r)
-$$
+$$1
+
+XC項為交換-關聯能,這項用一個勢能來近似電子感受到的交換能和關聯勢能,這在常規DFT中是一個定值.
+
+The XC term means the exchange-correlation energy. This term uses a potential to approximate the exchange energy and correlation potential felt by electrons. In conventional DFT, this is a fixed value.
 
 DFT的數值計算方式如下:
 

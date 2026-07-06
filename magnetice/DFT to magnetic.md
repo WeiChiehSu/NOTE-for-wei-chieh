@@ -138,5 +138,5 @@ Normal:n(r)[scalar]\longrightarrow Spin:strengh(r)[scalar]+direction(r)[vector]
 $$
 
 $$
-Normal:n_{\alpha } (r)=\sum_{\alpha  }\left \langle \psi^{*}  \right
+Spin:n_{\alpha,\beta } (r)=\sum_{\alpha ,\beta  }\left \langle \psi^{*}  \right | \psi _{\beta  }^{*}(r) \psi _{\alpha }(r)\left | \psi  \right \rangle  [\alpha ,\beta=\uparrow ,\downarrow  ]
 $$

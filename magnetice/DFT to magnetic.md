@@ -144,3 +144,7 @@ $$
 $$
 \Longrightarrow Spin:n_{\alpha \beta } (r)=\sum_{\alpha }^{} \left \langle \psi  \right | \psi_{\beta  }^{*}(r)\psi _{\alpha }^{}(r) \left | \psi  \right \rangle [\alpha ,\beta =\uparrow ,\downarrow ]  
 $$
+
+$$
+Normarl:n(r)\Longrightarrow Spin{}g
+$$

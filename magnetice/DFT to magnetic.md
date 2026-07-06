@@ -158,3 +158,10 @@ Normarl:n(r)\Longrightarrow Spin{}martix:n_{\alpha \beta } (r)=\begin{pmatrix}
  n_{\downarrow \uparrow} (r) &n_{\downarrow \downarrow} (r)
 \end{pmatrix}
 $$
+
+$$
+Normarl:n(r)\Longrightarrow Spin{}martix:n_{\alpha \beta } (r)=\begin{pmatrix}
+ n_{\uparrow \uparrow } (r) &n_{\uparrow \downarrow } (r) \\
+ n_{\downarrow \uparrow} (r) &n_{\downarrow \downarrow} (r)
+\end{pmatrix}
+$$

@@ -130,3 +130,5 @@ $$
 使用密度泛函理論(DFT),我們可以得到材料的基態電荷密度,以此解出材料的基態能量和基態波函數,我們也可以對DFT理論延伸,考慮對材料引入微擾時,材料的性質將產生甚麼樣的變化,這理論被稱為密度泛函微擾理論(DFPT).
 
 Using density functional theory (DFT), we can obtain the ground-state electron density of a material, from which the ground-state energy and ground-state wavefunctions can be determined. The DFT framework can also be extended to consider how the properties of a material change when a perturbation is introduced. This extension is known as density functional perturbation theory (DFPT).
+
+# magnetic correction DFT

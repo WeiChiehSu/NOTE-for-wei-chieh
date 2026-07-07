@@ -384,6 +384,10 @@ n_{\alpha \beta } (r)=\sum \varphi_{i}^{\alpha *}(r) \varphi_{i}^{\beta }(r)=
 \begin{pmatrix}
 \varphi _{i}^{\uparrow }(r)   & \\
 \varphi _{i}^{\downarrow }(r)  &
+\end{pmatrix}=
+\begin{pmatrix}
+ n_{\uparrow \uparrow } (r) &n_{\uparrow \downarrow } (r) \\
+ n_{\downarrow \uparrow} (r) &n_{\downarrow \downarrow} (r)
 \end{pmatrix}
 $$
 

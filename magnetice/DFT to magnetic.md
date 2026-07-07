@@ -343,3 +343,11 @@ i  & 0
 0  & -1
 \end{pmatrix}B_{xc}^{z}(r)
 $$
+
+$$
+\sigma .B_{xc}(r) =
+\begin{pmatrix}
+B_{xc}^{z}(r)  & B_{xc}^{x}(r)-iB_{xc}^{y}(r)\\
+B_{xc}^{x}(r)+iB_{xc}^{y}(r)  & -B_{xc}^{z}(r)
+\end{pmatrix}
+$$

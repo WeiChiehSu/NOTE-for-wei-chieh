@@ -253,3 +253,17 @@ off-diagonal{}element{}in{}z-base=
 \end{pmatrix}\Longrightarrow \\
 \end{cases}
 $$
+
+$$
+off-diagonal{}element{}in{}z-base=
+\begin{cases}
+\left | \uparrow _{z}   \right \rangle= \begin{pmatrix}
+1  & \\
+0  &
+\end{pmatrix}\Longrightarrow n=\left | \uparrow _{z}  \right \rangle \left \langle \uparrow _{z} \right | \\
+\left | \downarrow  _{z}   \right \rangle= \begin{pmatrix}
+0  & \\
+1  &
+\end{pmatrix}\Longrightarrow n=\left | \downarrow _{z}  \right \rangle \left \langle \downarrow _{z} \right | \\
+\end{cases}
+$$

@@ -283,9 +283,9 @@ i  &
 1  & -i\\
 i  & 1
 \end{pmatrix}\\
-\end{cases}\Longrightarrow off-diagonal{}element\ne 0
+\end{cases}\Longrightarrow off-diagonal{}element\ne 0\Longrightarrow 
 \begin{cases}
-1 \\
-2
+spin-tend-to-x-axis\longrightarrow real-part \\
+spin-tend-to-y-axis\longrightarrow imaginary-part
 \end{cases}
 $$

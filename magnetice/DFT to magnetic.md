@@ -426,7 +426,7 @@ $$
 
 $$
 \begin{cases}
-  & \text{ if } x= \\
-  & \text{ if } x=
+  & \left[ -\frac{ \hbar }{2m}\nabla^2+ V_{\text{Hatree}}(r) + V_{\text{SCF}}(r) +v_{xc}(r)+B_{xc}^{z}(r)    \right] \varphi _{i}^{\uparrow }(r)= \varepsilon_{i}^{\uparrow } \varphi _{i}^{\uparrow }(r)\\
+  & \left[ -\frac{ \hbar }{2m}\nabla^2+ V_{\text{Hatree}}(r) + V_{\text{SCF}}(r) +v_{xc}(r)-B_{xc}^{z}(r)    \right] \varphi _{i}^{\downarrow }(r)= \varepsilon_{i}^{\downarrow }   \varphi _{i}^{\downarrow }(r)
 \end{cases}
 $$

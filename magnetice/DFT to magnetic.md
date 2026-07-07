@@ -297,3 +297,7 @@ $$
 $$
 Postion:n_{\alpha \beta}(r)=\frac{1}{2}(n(r)I+\sigma .S(r))\to v(r)=v(r).I+\mu _{B} \sigma .B(r)=scalar{}potential+spin{}and{}magnetic{}coupling
 $$
+
+$$
+\left[ -\frac{\nabla^2 r}{2} + V_{\text{SCF}}(r) + V_{\text{Hatree}}(r) +V_{xc} (r) \right] \Psi(r) = \varepsilon \Psi(r)
+$$

@@ -223,13 +223,13 @@ s_{z}<0,n_{\uparrow \uparrow } (r)\le n_{\downarrow \downarrow} (r)\Longrightarr
 $$
 
 $$
-z{}base=
-\begin{cases}
-1 \\
-2 \\
-\end{cases}
-$$ 
-
-$$
 n_{\uparrow \downarrow } (r),n_{\downarrow \uparrow} (r)=off-diagonal{}element
 $$
+
+$$
+off-diagonal{}element{}in{}z-base=
+\begin{cases}
+\left | \uparrow _{z}   \right \rangle  \\
+\left | \downarrow  _{z}   \right \rangle \\
+\end{cases}
+$$ off-diagonal{}element

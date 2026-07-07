@@ -317,3 +317,9 @@ Magnetic{}K-S{}equation:\left[ (-\frac{ \hbar }{2m}\nabla^2+ V_{\text{Hatree}}(r
 \varphi_{i}^{\downarrow }   &
 \end{pmatrix}
 $$
+
+$$
+E_{xc}= E_{xc}[n_{\uparrow }(r) ,n_{\downarrow }(r) ]\Longrightarrow related{}to{}spin-up/down{}density
+$$
+
+

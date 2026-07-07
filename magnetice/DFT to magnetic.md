@@ -211,6 +211,10 @@ Total{}electron{}number=Trace\begin{pmatrix}
 $$
 
 $$
+n_{\uparrow \uparrow } (r),n_{\downarrow \downarrow} (r)=diagonal{}element
+$$
+
+$$
 Local{}spin{}difference=n_{\uparrow \uparrow } (r)-n_{\downarrow \downarrow} (r)=\frac{1}{2}(n(r)+s_{z}))- \frac{1}{2}(n(r)-s_{z}))=s_{z} 
 $$
 

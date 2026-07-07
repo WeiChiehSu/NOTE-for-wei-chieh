@@ -190,7 +190,6 @@ n  & 0 \\
 \end{pmatrix}
 $$
 
-
 $$
 n_{\alpha \beta}(r)=\begin{pmatrix}
  n_{\uparrow \uparrow } (r) &n_{\uparrow \downarrow } (r) \\

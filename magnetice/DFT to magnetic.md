@@ -215,9 +215,9 @@ Local{}spin{}difference=n_{\uparrow \uparrow } (r)-n_{\downarrow \downarrow} (r)
 $$
 
 $$
-s_{z} \{\begin{matrix}
- s_{z}=0\\s_{z}
- \\s_{z}
+\begin{cases}
+1 \\2
+ \\2
 
-\end{matrix}
+\end{cases}
 $$

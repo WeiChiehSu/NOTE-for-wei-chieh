@@ -323,3 +323,6 @@ E_{xc}= E_{xc}[n_{\uparrow }(r) ,n_{\downarrow }(r) ]\Longrightarrow related{}to
 $$
 
 
+$$
+\frac{\delta E_{xc} }{\delta n(r)} \to effective{}potential\to give{}diffrent{}energy{}for{}diffrent{}spin\to be{}self{}magnetic{}field{}B(r)
+$$

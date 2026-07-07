@@ -194,7 +194,7 @@ $$
 n_{\alpha \beta}(r)=\begin{pmatrix}
  n_{\uparrow \uparrow } (r) &n_{\uparrow \downarrow } (r) \\
  n_{\downarrow \uparrow} (r) &n_{\downarrow \downarrow} (r)
-\end{pmatrix}=\frac{1}{2}(n(r)I+\sigma .S(r))=\begin{pmatrix}
+\end{pmatrix}=\frac{1}{2}(n(r)I+\sigma .S(r))=\frac{1}{2} \begin{pmatrix}
  n(r)+s_{z}  & s_{x}-is_{y}   \\
  s_{x}+is_{y}  & n(r)-s_{z} 
 \end{pmatrix}= \begin{pmatrix}
@@ -204,5 +204,8 @@ spin-up/down-mixing  & spin-down-density
 $$
 
 $$
-Local{}spin{}number=
+Total{}electron{}number=Trace\begin{pmatrix}
+ n_{\uparrow \uparrow } (r) &n_{\uparrow \downarrow } (r) \\
+ n_{\downarrow \uparrow} (r) &n_{\downarrow \downarrow} (r)
+\end{pmatrix}=n_{\uparrow \uparrow } (r)+n_{\downarrow \downarrow} (r)
 $$

@@ -434,6 +434,6 @@ $$
 $$
 charge{}density\begin{cases}
   & n^{\uparrow }(r)=\sum_{i}^{}\omega_{i}^{\uparrow }  \left | \psi _{i}^{\uparrow }  \right |^{2}    \\
-  & \text{ if } x=
+  & n^{\downarrow}(r)=\sum_{i}^{}\omega_{i}^{\downarrow }  \left | \psi _{i}^{\downarrow }  \right |^{2}
 \end{cases}
 $$

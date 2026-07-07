@@ -232,4 +232,4 @@ off-diagonal{}element{}in{}z-base=
 \left | \uparrow_{z}\right \rangle  \\
 \left | \downarrow_{z}\right \rangle \\
 \end{cases}
-$$ off-diagonal{}element
+$$ 

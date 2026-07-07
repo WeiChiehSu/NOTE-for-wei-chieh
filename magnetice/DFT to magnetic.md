@@ -233,3 +233,18 @@ off-diagonal{}element{}in{}z-base=
 \left | \downarrow_{z}\right \rangle \\
 \end{cases}
 $$ 
+
+
+$$
+off-diagonal{}element{}in{}z-base=
+\begin{cases}
+\left | \uparrow _{z}   \right \rangle= \begin{pmatrix}
+1  & \\
+0  &
+\end{pmatrix} \\
+\left | \downarrow  _{z}   \right \rangle= \begin{pmatrix}
+0  & \\
+1  &
+\end{pmatrix}\\
+\end{cases}
+$$

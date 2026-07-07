@@ -408,3 +408,18 @@ v_{xc}(r)+B_{xc}^{x}(r)+iB_{xc}^{y}(r)   & \left[ -\frac{ \hbar }{2m}\nabla^2+ V
 \end{pmatrix} 
 $$
 
+$$
+\Longrightarrow 
+\begin{pmatrix}
+\left[ -\frac{ \hbar }{2m}\nabla^2+ V_{\text{Hatree}}(r) + V_{\text{SCF}}(r) +v_{xc}(r)+B_{xc}^{z}(r)    \right]   & 0 \\
+0   & \left[ -\frac{ \hbar }{2m}\nabla^2+ V_{\text{Hatree}}(r) + V_{\text{SCF}}(r) +v_{xc}(r)-B_{xc}^{z}(r)    \right] 
+\end{pmatrix}
+\begin{pmatrix}
+\varphi _{i}^{\uparrow }(r)   & \\
+\varphi _{i}^{\downarrow }(r)  &
+\end{pmatrix}=\varepsilon _{i}
+\begin{pmatrix}
+\varphi _{i}^{\uparrow }(r)   & \\
+\varphi _{i}^{\downarrow }(r)  &
+\end{pmatrix} 
+$$

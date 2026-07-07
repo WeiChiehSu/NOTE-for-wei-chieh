@@ -440,8 +440,8 @@ $$
 
 $$
 \omega_{i}\begin{cases}
-  &   & \text{ if } x= \\
-  &   & \text{ if } x= \\
-  &   & \text{ if } x=
+  &   & E>E_{F} \Longrightarrow no-occupy \Longrightarrow \omega _{i}=0  \\
+  &   & E=E_{F} \Longrightarrow part-occupy \Longrightarrow 0 \le \omega _{i} \le 1 \\
+  &   & E\le E_{F} \Longrightarrow full-occupy \Longrightarrow \omega _{i}=1
 \end{cases}
 $$

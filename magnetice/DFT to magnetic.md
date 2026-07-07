@@ -330,3 +330,16 @@ $$
 $$
 \frac{\delta E_{xc} }{\delta n(r)} =V_{xc}(r)=v_{xc}(r).I+\mu _{B} \sigma .B_{xc}(r)=scalar{}xc{}potential+self{}magnetic{}field
 $$
+
+$$
+B_{xc}(r) =(B_{xc}^{x}(r),B_{xc}^{y}(r),B_{xc}^{z}(r))\to \sigma .B_{xc}(r)= \begin{pmatrix}
+ 0 & 1\\
+ 1 & 0
+\end{pmatrix}B_{xc}^{x}(r)+\begin{pmatrix}
+0  &-i\\
+i  & 0
+\end{pmatrix}B_{xc}^{y}(r)+\begin{pmatrix}
+1  & 0\\
+0  & -1
+\end{pmatrix}B_{xc}^{z}(r)
+$$

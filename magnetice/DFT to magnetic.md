@@ -289,3 +289,37 @@ off-diagonal{}element{}in{}z-base=
 2
 \end{cases}
 $$
+
+$$
+off-diagonal{}element{}in{}z-base=
+\begin{cases}
+\left | \uparrow _{x}   \right \rangle=\frac{1}{\sqrt{2} }  \begin{pmatrix}
+1  & \\
+1  &
+\end{pmatrix}\Longrightarrow n=\left | \uparrow _{x}  \right \rangle \left \langle \uparrow _{x} \right | =\begin{pmatrix}
+1  & \\
+1  &
+\end{pmatrix}\begin{pmatrix}
+ 1 &1
+\end{pmatrix}=\frac{1}{2} \begin{pmatrix}
+1  & 1\\
+1  & 1
+\end{pmatrix}\\
+\left | \downarrow  _{y}   \right \rangle=\frac{1}{\sqrt{2} } \begin{pmatrix}
+1  & \\
+i  &
+\end{pmatrix}\Longrightarrow n=\left | \downarrow _{y}  \right \rangle \left \langle \downarrow _{y} \right | =\begin{pmatrix}
+1  & \\
+i  &
+\end{pmatrix}\begin{pmatrix}
+ 1 &-i
+\end{pmatrix}=\frac{1}{2} \begin{pmatrix}
+1  & -i\\
+i  & 1
+\end{pmatrix}\\
+\end{cases}\Longrightarrow off-diagonal{}element\ne 0
+\begin{cases}
+1 \\
+2
+\end{cases}
+$$

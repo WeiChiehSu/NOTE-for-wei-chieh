@@ -299,5 +299,5 @@ Postion:n_{\alpha \beta}(r)=\frac{1}{2}(n(r)I+\sigma .S(r))\to v(r)=v(r).I+\mu _
 $$
 
 $$
-\left[ -\frac{\nabla^2 r}{2} + V_{\text{SCF}}(r) + V_{\text{Hatree}}(r) +V_{xc} (r) \right] \Psi(r) = \varepsilon \Psi(r)
+Normal{}K-S{}equation:\left[ -\frac{\nabla^2 r}{2} + V_{\text{SCF}}(r) + V_{\text{Hatree}}(r) +V_{xc} (r) \right] \Psi(r) = \varepsilon \Psi(r)
 $$

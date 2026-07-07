@@ -229,7 +229,7 @@ $$
 $$
 off-diagonal{}element{}in{}z-base=
 \begin{cases}
-\left | \uparrow _{z}   \right \rangle  \\
-\left | \downarrow  _{z}   \right \rangle \\
+\left | \uparrow_{z}\right \rangle  \\
+\left | \downarrow_{z}\right \rangle \\
 \end{cases}
 $$ off-diagonal{}element

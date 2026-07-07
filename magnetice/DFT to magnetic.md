@@ -389,3 +389,22 @@ Total{}electron{}density=Trace\begin{pmatrix}
  n_{\downarrow \uparrow} (r) &n_{\downarrow \downarrow} (r)
 \end{pmatrix}=n_{\uparrow \uparrow } (r)+n_{\downarrow \downarrow} (r)=n(r)
 $$
+
+# Coliner magnetic DFT
+
+$$
+Magnetic{}K-S{}equation:
+\begin{pmatrix}
+\left[ -\frac{ \hbar }{2m}\nabla^2+ V_{\text{Hatree}}(r) + V_{\text{SCF}}(r) +v_{xc}(r)+B_{xc}^{z}(r)    \right]   & v_{xc}(r)+B_{xc}^{x}(r)-iB_{xc}^{y}(r) \\
+v_{xc}(r)+B_{xc}^{x}(r)+iB_{xc}^{y}(r)   & \left[ -\frac{ \hbar }{2m}\nabla^2+ V_{\text{Hatree}}(r) + V_{\text{SCF}}(r) +v_{xc}(r)-B_{xc}^{z}(r)    \right] 
+\end{pmatrix}
+\begin{pmatrix}
+\varphi _{i}^{\uparrow }(r)   & \\
+\varphi _{i}^{\downarrow }(r)  &
+\end{pmatrix}=\varepsilon _{i}
+\begin{pmatrix}
+\varphi _{i}^{\uparrow }(r)   & \\
+\varphi _{i}^{\downarrow }(r)  &
+\end{pmatrix} 
+$$
+

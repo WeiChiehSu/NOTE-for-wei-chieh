@@ -229,15 +229,6 @@ $$
 $$
 off-diagonal{}element{}in{}z-base=
 \begin{cases}
-\left | \uparrow_{z}\right \rangle  \\
-\left | \downarrow_{z}\right \rangle \\
-\end{cases}
-$$ 
-
-
-$$
-off-diagonal{}element{}in{}z-base=
-\begin{cases}
 \left | \uparrow _{z}   \right \rangle= \begin{pmatrix}
 1  & \\
 0  &
@@ -246,5 +237,19 @@ off-diagonal{}element{}in{}z-base=
 0  & \\
 1  &
 \end{pmatrix}\\
+\end{cases}
+$$
+
+$$
+off-diagonal{}element{}in{}z-base=
+\begin{cases}
+\left | \uparrow _{z}   \right \rangle= \begin{pmatrix}
+1  & \\
+0  &
+\end{pmatrix}\Longrightarrow  \\
+\left | \downarrow  _{z}   \right \rangle= \begin{pmatrix}
+0  & \\
+1  &
+\end{pmatrix}\Longrightarrow \\
 \end{cases}
 $$

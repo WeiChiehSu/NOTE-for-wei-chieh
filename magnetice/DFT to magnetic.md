@@ -221,4 +221,3 @@ s_{z}>0,n_{\uparrow \uparrow } (r)>n_{\downarrow \downarrow} (r)\Longrightarrow 
 s_{z}<0,n_{\uparrow \uparrow } (r)<n_{\downarrow \downarrow} (r)\Longrightarrow spin{}tend{}to{}spin-down
 \end{cases}
 $$
-$$

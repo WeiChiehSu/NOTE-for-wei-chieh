@@ -303,7 +303,11 @@ Normal{}K-S{}equation:\left[ -\frac{\nabla^2 r}{2} + V_{\text{SCF}}(r) + V_{\tex
 $$
 
 $$
-magnetic{}K-S{}equation:\left[ (-\frac{ \hbar }{2m}\nabla^2+ V_{\text{Hatree}}(r)).I + V_{\text{SCF}}(r) +\frac{\delta E_{xc} }{\delta n(r) }   \right] 
+\Downarrow
+$$
+
+$$
+Magnetic{}K-S{}equation:\left[ (-\frac{ \hbar }{2m}\nabla^2+ V_{\text{Hatree}}(r)).I + V_{\text{SCF}}(r) +\frac{\delta E_{xc} }{\delta n(r) }   \right] 
 \begin{pmatrix}
 \varphi_{i}^{\uparrow }    & \\
 \varphi_{i}^{\downarrow }   &

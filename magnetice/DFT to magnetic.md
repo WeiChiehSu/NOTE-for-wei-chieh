@@ -289,3 +289,7 @@ spin-tend-to-x-axis\longrightarrow real-part \\
 spin-tend-to-y-axis\longrightarrow imaginary-part
 \end{cases}
 $$
+
+$$
+Postion:n_{\alpha \beta}(r)=\frac{1}{2}(n(r)I+\sigma .S(r))\to v(r)=v(r).I+\mu _{B} \sigma .B(r)=scalar{}potential+spin{}and{}magnetic{}coupling
+$$

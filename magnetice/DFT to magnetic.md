@@ -430,3 +430,10 @@ $$
   & \left[ -\frac{ \hbar }{2m}\nabla^2+ V_{\text{Hatree}}(r) + V_{\text{SCF}}(r) +v_{xc}(r)-B_{xc}^{z}(r)    \right] \varphi _{i}^{\downarrow }(r)= \varepsilon_{i}^{\downarrow }   \varphi _{i}^{\downarrow }(r)
 \end{cases}
 $$
+
+$$
+charge{}density\begin{cases}
+  & n^{\uparrow }(r)=\sum_{i}^{}\omega_{i}^{\uparrow }  \left | \psi _{i}^{\uparrow }  \right |^{2}    \\
+  & \text{ if } x=
+\end{cases}
+$$

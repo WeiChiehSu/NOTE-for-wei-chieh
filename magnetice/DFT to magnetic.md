@@ -202,3 +202,7 @@ spin-up-density  & spin-direction-trend-to-x,y,z-axis\\
 spin-up/down-mixing  & spin-down-density
 \end{pmatrix}
 $$
+
+$$
+Local{}spin{}number=
+$$

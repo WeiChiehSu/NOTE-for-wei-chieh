@@ -375,3 +375,14 @@ v_{xc}(r)+B_{xc}^{x}(r)+iB_{xc}^{y}(r)   & \left[ -\frac{ \hbar }{2m}\nabla^2+ V
 \varphi _{i}^{\downarrow }(r)  &
 \end{pmatrix} 
 $$
+
+$$
+n_{\alpha \beta } (r)=\sum \varphi_{i}^{\alpha *}(r) \varphi_{i}^{\beta }(r)=
+\begin{pmatrix}
+\varphi _{i}^{\uparrow }(r)  & \varphi _{i}^{\downarrow }(r)
+\end{pmatrix}
+\begin{pmatrix}
+\varphi _{i}^{\uparrow }(r)   & \\
+\varphi _{i}^{\downarrow }(r)  &
+\end{pmatrix}
+$$

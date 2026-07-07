@@ -445,3 +445,8 @@ $$
   &   & E\le E_{F} \Longrightarrow full-occupy \Longrightarrow \omega _{i}=1
 \end{cases}
 $$
+
+$$
+total{}charge{}density=n^{\uparrow }(r)+n^{\downarrow}(r)
+$$
+

@@ -215,9 +215,10 @@ Local{}spin{}difference=n_{\uparrow \uparrow } (r)-n_{\downarrow \downarrow} (r)
 $$
 
 $$
-\begin{cases}
-1 \\
-2 \\
-2
+s_{z}=\begin{cases}
+s_{z}=0,n_{\uparrow \uparrow } (r)=n_{\downarrow \downarrow} (r)\Longrightarrow no{}spin{}trend \\
+s_{z}>0,n_{\uparrow \uparrow } (r)>n_{\downarrow \downarrow} (r)\Longrightarrow spin{}tend{}to{}spin-up \\
+s_{z}<0,n_{\uparrow \uparrow } (r)<n_{\downarrow \downarrow} (r)\Longrightarrow spin{}tend{}to{}spin-down
 \end{cases}
+$$
 $$

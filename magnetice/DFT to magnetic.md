@@ -189,3 +189,13 @@ n  & 0 \\
 0  & n
 \end{pmatrix}
 $$
+
+$$
+n(r)=\frac{1}{2}(n(r)I+\sigma .S(r))=\begin{pmatrix}
+ n(r)+s_{z}  & s_{x}-is_{y}   \\
+ s_{x}+is_{y}  & n(r)-s_{z} 
+\end{pmatrix}= \begin{pmatrix}
+spin-up{}density  & spin-direction{}trend{}to x,y,z{}axis\\
+spin-up/down{} mix  & spin-down{}density
+\end{pmatrix}
+$$

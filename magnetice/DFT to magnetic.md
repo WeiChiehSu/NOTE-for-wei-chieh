@@ -229,3 +229,7 @@ z{}base=
 2 \\
 \end{cases}
 $$ 
+
+$$
+n_{\uparrow \downarrow } (r),n_{\downarrow \uparrow} (r)=off-diagonal{}element
+$$

@@ -359,3 +359,11 @@ Magnetic{}K-S{}equation:
 \left[ (-\frac{ \hbar }{2m}\nabla^2+ V_{\text{Hatree}}(r)).I + V_{\text{SCF}}(r) +\frac{\delta E_{xc} }{\delta n(r) }   \right]   & \left[ (-\frac{ \hbar }{2m}\nabla^2+ V_{\text{Hatree}}(r)).I + V_{\text{SCF}}(r) +\frac{\delta E_{xc} }{\delta n(r) }   \right] 
 \end{pmatrix}
 $$
+
+$$
+Magnetic{}K-S{}equation:
+\begin{pmatrix}
+\left[ -\frac{ \hbar }{2m}\nabla^2+ V_{\text{Hatree}}(r) + V_{\text{SCF}}(r) +v_{xc}(r)+B_{xc}^{z}(r)    \right]   & v_{xc}(r)+B_{xc}^{x}(r)-iB_{xc}^{y}(r) \\
+v_{xc}(r)+B_{xc}^{x}(r)+iB_{xc}^{y}(r)   & \left[ -\frac{ \hbar }{2m}\nabla^2+ V_{\text{Hatree}}(r) + V_{\text{SCF}}(r) +v_{xc}(r)-B_{xc}^{z}(r)    \right] 
+\end{pmatrix}
+$$

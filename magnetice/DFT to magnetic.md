@@ -221,3 +221,11 @@ s_{z}>0,n_{\uparrow \uparrow } (r)>n_{\downarrow \downarrow} (r)\Longrightarrow 
 s_{z}<0,n_{\uparrow \uparrow } (r)\le n_{\downarrow \downarrow} (r)\Longrightarrow spin-tend-to-spin-down \\
 \end{cases}
 $$
+
+$$
+z{}base=
+\begin{cases}
+1 \\
+2 \\
+\end{cases}
+$$ 

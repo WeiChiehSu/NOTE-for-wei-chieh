@@ -207,5 +207,9 @@ $$
 Total{}electron{}number=Trace\begin{pmatrix}
  n_{\uparrow \uparrow } (r) &n_{\uparrow \downarrow } (r) \\
  n_{\downarrow \uparrow} (r) &n_{\downarrow \downarrow} (r)
-\end{pmatrix}=n_{\uparrow \uparrow } (r)+n_{\downarrow \downarrow} (r)
+\end{pmatrix}=n_{\uparrow \uparrow } (r)+n_{\downarrow \downarrow} (r)=n(r)
+$$
+
+$$
+Local{}spin{}difference=n_{\uparrow \uparrow } (r)-n_{\downarrow \downarrow} (r)=\frac{1}{2}(n(r)+s_{z}))- \frac{1}{2}(n(r)-s_{z}))=s_{z} 
 $$

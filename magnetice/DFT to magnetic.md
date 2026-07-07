@@ -326,3 +326,7 @@ $$
 $$
 \frac{\delta E_{xc} }{\delta n(r)} \to effective{}potential\to give{}diffrent{}energy{}for{}diffrent{}spin\to be{}self{}magnetic{}field{}B(r)
 $$
+
+$$
+\frac{\delta E_{xc} }{\delta n(r)} =V_{xc}(r)=v_{xc}(r).I+\mu _{B} \sigma .B_{xc}(r)=scalar{}xc{}potential+self{}magnetic{}field
+$$

@@ -179,3 +179,13 @@ i  & 0
 0  & -1
 \end{pmatrix}s_{z}
 $$
+
+$$
+\Longrightarrow \sigma .S(r)=\begin{pmatrix}
+ s_{z}  & s_{x}-is_{y}   \\
+ s_{x}+is_{y}  & -s_{z} 
+\end{pmatrix};n(r).I=\begin{pmatrix}
+n  & 0 \\
+0  & n
+\end{pmatrix}
+$$

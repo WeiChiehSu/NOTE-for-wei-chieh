@@ -259,40 +259,6 @@ $$
 $$
 off-diagonal{}element{}in{}z-base=
 \begin{cases}
-\left | \uparrow _{z}   \right \rangle= \begin{pmatrix}
-1  & \\
-0  &
-\end{pmatrix}\Longrightarrow n=\left | \uparrow _{z}  \right \rangle \left \langle \uparrow _{z} \right | =\begin{pmatrix}
-1  & \\
-0  &
-\end{pmatrix}\begin{pmatrix}
- 1 &0
-\end{pmatrix}=\begin{pmatrix}
-1  & 0\\
-0  & 0
-\end{pmatrix}\\
-\left | \downarrow  _{z}   \right \rangle= \begin{pmatrix}
-0  & \\
-1  &
-\end{pmatrix}\Longrightarrow n=\left | \downarrow _{z}  \right \rangle \left \langle \downarrow _{z} \right | =\begin{pmatrix}
-0  & \\
-1  &
-\end{pmatrix}\begin{pmatrix}
- 0 &1
-\end{pmatrix}=\begin{pmatrix}
-0  & 0\\
-0  & 1
-\end{pmatrix}\\
-\end{cases}\Longrightarrow off-diagonal{}element\ne 0
-\begin{cases}
-1 \\
-2
-\end{cases}
-$$
-
-$$
-off-diagonal{}element{}in{}z-base=
-\begin{cases}
 \left | \uparrow _{x}   \right \rangle=\frac{1}{\sqrt{2} }  \begin{pmatrix}
 1  & \\
 1  &

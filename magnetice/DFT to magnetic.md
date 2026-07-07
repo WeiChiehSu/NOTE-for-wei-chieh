@@ -392,7 +392,7 @@ spin-density-martix:n_{\alpha \beta } (r)=\sum \varphi_{i}^{\alpha *}(r) \varphi
 $$
 
 $$
-Total{}electron{}number=Trace\begin{pmatrix}
+Total{}electron{}density=Trace\begin{pmatrix}
  n_{\uparrow \uparrow } (r) &n_{\uparrow \downarrow } (r) \\
  n_{\downarrow \uparrow} (r) &n_{\downarrow \downarrow} (r)
 \end{pmatrix}=n_{\uparrow \uparrow } (r)+n_{\downarrow \downarrow} (r)=n(r)

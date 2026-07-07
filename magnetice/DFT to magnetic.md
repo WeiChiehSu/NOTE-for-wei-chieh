@@ -134,7 +134,7 @@ Using density functional theory (DFT), we can obtain the ground-state electron d
 # magnetic correction DFT(磁性修正DFT)
 
 $$
-Normal-density:n(r)=\sum_{\alpha }^{} \left \langle \psi  \right | \psi_{\alpha }^{*}(r)\psi _{\alpha }^{}(r) \left | \psi  \right \rangle   
+Normal-density:n(r)=\sum \left \langle \psi  \right | \psi^{*}(r)\psi (r) \left | \psi  \right \rangle   
 $$
 
 $$

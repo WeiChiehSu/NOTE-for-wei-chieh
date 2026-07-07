@@ -423,3 +423,10 @@ $$
 \varphi _{i}^{\downarrow }(r)  &
 \end{pmatrix} 
 $$
+
+$$
+\begin{cases}
+  & \text{ if } x= \\
+  & \text{ if } x=
+\end{cases}
+$$

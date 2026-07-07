@@ -196,6 +196,6 @@ n(r)=\frac{1}{2}(n(r)I+\sigma .S(r))=\begin{pmatrix}
  s_{x}+is_{y}  & n(r)-s_{z} 
 \end{pmatrix}= \begin{pmatrix}
 spin-up{}density  & spin-direction{}trend{}to x,y,z{}axis\\
-spin-up/down{} mix  & spin-down{}density
+spin-up/down{}mix  & spin-down{}density
 \end{pmatrix}
 $$

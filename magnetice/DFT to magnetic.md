@@ -224,7 +224,7 @@ $$
 
 $$
 \begin{cases}
-1 \\
+s_{z}=0,n_{\uparrow \uparrow } (r)=n_{\downarrow \downarrow} (r)\Longrightarrow no{}spin{}trend \\
 2 \\
 2
 \end{cases}

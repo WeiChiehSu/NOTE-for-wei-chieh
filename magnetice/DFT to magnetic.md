@@ -447,6 +447,13 @@ $$
 $$
 
 $$
-total{}charge{}density=n^{\uparrow }(r)+n^{\downarrow}(r)
+total{}charge{}densityn{}(r)=n^{\uparrow }(r)+n^{\downarrow}(r)
 $$
 
+$$
+\nabla V_{Hatree}(r) =-4 \pi n{}(r) \to  n{}(r)=n^{\uparrow }(r)+n^{\downarrow}(r)\Leftrightarrow V_{Hatree}(r)
+$$
+
+$$
+Approximation:E_{xc}\approx -\frac{3}{2}(\frac{3}{4\pi } )^{\frac{1}{3}}\int dr[(n^{\uparrow }(r)^{\frac{4}{3} }+(n^{\downarrow}(r))^{\frac{4}{3} }  ]    \to  n^{\uparrow }(r);n^{\downarrow}(r)\Leftrightarrow E_{xc}
+$$

@@ -461,3 +461,17 @@ $$
 $$
 V_{xc}^{\uparrow} =v+B^{\uparrow}=\frac{\delta E_{xc}[n^{\uparrow }(r),n^{\downarrow}(r)] }{\delta n^{\uparrow }(r)};V_{xc}^{\downarrow} =v+B^{\downarrow}=\frac{\delta E_{xc}[n^{\uparrow }(r),n^{\downarrow}(r)] }{\delta n^{\downarrow}(r)}
 $$
+
+$$
+\begin{aligned}
+\text{1.Guess-charge-density:} \, n^{\uparrow }(r),n^{\downarrow}(r),n{}(r)=n^{\uparrow }(r)+n^{\downarrow}(r) \\
+\Downarrow \\
+\text{2.Poisson-eq:} \, \nabla^2 V_{\text{Hatree}}(r) = -4 \pi n(r){} ; {}V_{xc}^{\uparrow,\downarrow} =v_{xc}(r) \pm B_{xc} ^{z}=\frac{\delta E_{xc}[n^{\uparrow }(r),n^{\downarrow}(r)] }{\delta n^{\uparrow,\downarrow}(r)}\\
+\Downarrow \\
+\text{3.KS-eq:} \left[ -\frac{ \hbar }{2m}\nabla^2 + V_{\text{SCF}}(r) + V_{\text{Hatree}}(r) +v_{xc} (r)\pm B_{xc}^{z}  \right] \Psi_{i}^{\uparrow,\downarrow} (r) = \varepsilon_{i}^{\uparrow,\downarrow}  \Psi_{i}^{\uparrow,\downarrow} (r) \\
+\Downarrow \\
+4.n_{\text{new}}(r) = \sum \left| \Psi_{i}^{\uparrow} (r) \right|^2+\sum \left| \Psi_{i}^{\downarrow} (r) \right|^2 \\
+\Downarrow \\
+5.n(r) = n_{\text{new}}(r) \vee n(r) \neq n_{\text{new}}(r)
+\end{aligned}
+$$

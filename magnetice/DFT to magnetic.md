@@ -457,3 +457,7 @@ $$
 $$
 Approximation:E_{xc}\approx -\frac{3}{2}(\frac{3}{4\pi } )^{\frac{1}{3}}\int dr[(n^{\uparrow }(r)^{\frac{4}{3} }+(n^{\downarrow}(r))^{\frac{4}{3} }  ]    \to  n^{\uparrow }(r);n^{\downarrow}(r)\Leftrightarrow E_{xc}
 $$
+
+$$
+V_{xc}^{\uparrow} =v+B^{\uparrow}=\frac{\delta E_{xc}[n^{\uparrow }(r),n^{\downarrow}(r)] }{\delta n^{\uparrow }(r)};V_{xc}^{\downarrow} =v+B^{\downarrow}=\frac{\delta E_{xc}[n^{\uparrow }(r),n^{\downarrow}(r)] }{\delta n^{\downarrow}(r)}
+$$

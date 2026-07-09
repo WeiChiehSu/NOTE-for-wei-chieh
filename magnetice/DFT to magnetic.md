@@ -479,5 +479,5 @@ $$
 # Exchange-correlation energy
 
 $$
-Whe{}electron{}at{}r,The{}probility{}of{}other{}electron{}near{}r{}will{}decrease{}\Longrightarrow The
+When{}electron{}at{}r,The{}probility{}of{}other{}electron{}near{}r{}will{}decrease{}\Longrightarrow The{}place{}of{}near{}r{}lose{}some{}electron{}density\Longrightarrow Like{}hole
 $$

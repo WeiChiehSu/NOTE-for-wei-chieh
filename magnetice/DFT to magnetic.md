@@ -518,3 +518,15 @@ $$
 $$
 LDA{}approximation:elecron-density{}near{}r\to hole{}density{}from{}uniform{}electron{}gas\Longrightarrow n_{xc}^{LDA}(r,r')=n(r')h_{0}(\left | r-r' \right |;n(r))   
 $$
+
+$$
+2\times 2{}spin-martix\to E_{xc}:n_{\uparrow }(r),n_{\downarrow}(r)(colinear)   
+$$
+
+$$
+E_{xc} [n_{\uparrow }(r),n_{\downarrow}(r)]=\int drn(r)\varepsilon_{xc}(n_{\uparrow }(r),n_{\downarrow}(r))
+$$
+
+$$
+LSDA:n_{\uparrow },n_{\downarrow};GGA:n_{\uparrow }+ \nabla n_{\uparrow }  ,n_{\downarrow}+\nabla n_{\downarrow }:Meta-GGA:n_{\uparrow }+ \nabla n_{\uparrow }+\tau _{\uparrow }   ,n_{\downarrow}+\nabla n_{\downarrow }+\tau _{\downarrow }
+$$

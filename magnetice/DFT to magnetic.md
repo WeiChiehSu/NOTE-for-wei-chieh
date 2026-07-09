@@ -475,3 +475,7 @@ $$
 5.n(r) = n_{\text{new}}(r) \vee n(r) \neq n_{\text{new}}(r)
 \end{aligned}
 $$
+
+# Exchange-correlation energy
+
+0

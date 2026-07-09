@@ -24,3 +24,8 @@ all{}state{}have{}same{}split
 \end{cases}
 \Longrightarrow \Delta \varepsilon_{i}=IM(I:stoner-coefficient)
 $$
+
+$$
+split\Longrightarrow new{}magnetic{}moment:F(M)=\int_{}^{E_{F} } [N(E+\frac{1}{2}IM)-N(E-\frac{1}{2}IM) ]dE
+$$
+

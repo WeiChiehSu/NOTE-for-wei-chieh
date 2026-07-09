@@ -15,3 +15,12 @@ $$
 $$
 spin-up/down{}potential{}different\Longrightarrow band{}split:\Delta \varepsilon _{i}=\varepsilon_{i}^{\uparrow }-\varepsilon_{i}^{\downarrow  }\approx M\left \langle \psi_{i}  \right |\frac{\partial v_{xc}^{\uparrow }-v_{xc}^{\downarrow}}{\partial M}\left | \psi_{i}   \right \rangle  
 $$
+
+$$
+all{}state{}have{}same{}split
+\begin{cases}
+  & \varepsilon _{i}^{\uparrow }=\varepsilon _{i}-\frac{1}{2}IM \\
+  & \varepsilon _{i}^{\downarrow }=\varepsilon _{i}+\frac{1}{2}IM 
+\end{cases}
+\Longrightarrow \Delta \varepsilon_{i}=IM(I:stoner-coefficient)
+$$

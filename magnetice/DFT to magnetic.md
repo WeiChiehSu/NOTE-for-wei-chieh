@@ -489,3 +489,7 @@ hole{}reason:
   & correlation:electron-repulsion\to Hatree-potential
 \end{cases}
 $$
+
+$$
+n_{xc}(r,r')=n(r')\int_{0}^{1}d\lambda[g_{n}(r,r',\lambda)-1 ]\Longrightarrow The{}place{}of{}near{}r'{}lose{}electron{}density=electron{}density{}at{}r'\times The{}probility{}of{}other{}electron{}near{}r
+$$

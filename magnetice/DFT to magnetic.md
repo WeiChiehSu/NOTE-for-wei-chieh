@@ -504,5 +504,13 @@ g_{n}(r,r',\lambda)
 $$
 
 $$
-E_{xc}[n(r)]=\frac{1}{2}\int drn(r)\int dr'\frac{n_{xc}(r,r') }{\left | r-r' \right | }  \Longrightarrow all{}potentail{}detween{}electron{}and{}hole=all{}elecron{}density\times lose{}electron(hole){}density\Longrightarrow reduce{}Hatree{}potential
+E_{xc}[n(r)]=\frac{1}{2}\int drn(r)\int dr'\frac{n_{xc}(r,r') }{\left | r-r' \right | }  \Longrightarrow all{}potentail{}detween{}electron{}and{}hole=all{}elecron{}density\times lose{}electron(hole){}density\Longrightarrow negative{}value
+$$
+
+$$
+hole{}rule
+\begin{cases}
+  & hole-related-to-distance-with-electron-in-center \\
+  & \int dr'n_{xc}(r,r')=-1\Longrightarrow all-hole-density=lose-one-electron
+\end{cases}
 $$

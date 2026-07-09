@@ -40,3 +40,7 @@ M
   & M\ne 0 \to tend-to-form-Magnetic-moment
 \end{cases}
 $$
+
+$$
+M\ne 0\to \frac{\mathrm{d} F(M)}{\mathrm{d} M}|_{M\approx 0}>1\Longrightarrow F(M)>M
+$$

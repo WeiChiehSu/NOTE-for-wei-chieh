@@ -514,3 +514,7 @@ hole{}rule
   & \int dr'n_{xc}(r,r')=-1\Longrightarrow all-hole-density=lose-one-electron
 \end{cases}
 $$
+
+$$
+LDA{}approximation:elecron-density{}near{}r\to hole{}density{}from{}uniform{}electron{}gas\Longrightarrow n_{xc}^{LDA}(r,r')=n(r')h_{0}(\left | r-r' \right |;n(r))   
+$$

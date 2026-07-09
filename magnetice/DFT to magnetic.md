@@ -502,3 +502,7 @@ g_{n}(r,r',\lambda)
   & g_{n}> 1\Longrightarrow increase-electron-density & 
 \end{cases}
 $$
+
+$$
+E_{xc}[n(r)]=\frac{1}{2}\int drn(r)\int dr'\frac{n_{xc}(r,r') }{\left | r-r' \right | }  \Longrightarrow all{}potentail{}detween{}electron{}and{}hole=all{}elecron{}density\times lose{}electron(hole){}density
+$$

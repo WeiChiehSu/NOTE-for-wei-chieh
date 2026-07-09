@@ -481,3 +481,11 @@ $$
 $$
 When{}electron{}at{}r,The{}probility{}of{}other{}electron{}near{}r{}will{}decrease{}\Longrightarrow The{}place{}of{}near{}r{}lose{}some{}electron{}density\Longrightarrow Like{}hole
 $$
+
+$$
+hole{}reason:
+\begin{cases}
+  & exchange:wave-antisymmetry\longrightarrow same-spin-can't-approach \\
+  & correlation:electron-repulsion\to Hatree-potential
+\end{cases}
+$$

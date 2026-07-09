@@ -478,4 +478,6 @@ $$
 
 # Exchange-correlation energy
 
-0
+$$
+Whe{}electron{}at{}r,The{}probility{}of{}other{}electron{}near{}r{}will{}decrease{}\Longrightarrow The
+$$

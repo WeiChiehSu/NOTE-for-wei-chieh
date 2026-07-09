@@ -497,8 +497,8 @@ $$
 $$
 g_{n}(r,r',\lambda)
 \begin{cases}
-  & g_{n}>1\Longrightarrow decrease-electron-density\Longrightarrow hole  &  \\
+  & g_{n}\le1\Longrightarrow decrease-electron-density\Longrightarrow hole  &  \\
   & g_{n}=1\Longrightarrow no-special-effect &  \\
-  & g_{n}\le 1\Longrightarrow increase-electron-density & 
+  & g_{n}> 1\Longrightarrow increase-electron-density & 
 \end{cases}
 $$

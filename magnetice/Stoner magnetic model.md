@@ -29,3 +29,14 @@ $$
 split\Longrightarrow new{}magnetic{}moment:F(M)=\int_{}^{E_{F} } [N(E+\frac{1}{2}IM)-N(E-\frac{1}{2}IM) ]dE
 $$
 
+$$
+self-consistent:M[old]=F(M)[new]
+$$
+
+$$
+M
+\begin{cases}
+  & M=0\to no-Magnetic-moment \\
+  & M\ne 0 \to tend-to-form-Magnetic-moment
+\end{cases}
+$$

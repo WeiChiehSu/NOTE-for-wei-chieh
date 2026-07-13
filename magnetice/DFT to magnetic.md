@@ -149,7 +149,8 @@ Normarl:\left | \psi(r)  \right \rangle \Longrightarrow Spin:\left | \psi (r)*  
 $$
 
 $$
-Normarl:n(r)=\left \langle \psi(r)  | \psi(r)  \right \rangle  \Longrightarrow Spin{}martix:n_{\alpha \beta } (r)=\left \langle \psi (r)*  | \psi (r)*  \right \rangle =\begin{pmatrix}
+Normarl:n(r)=\left \langle \psi(r)  | \psi(r)  \right \rangle  \Longrightarrow Spin{}martix:n_{\alpha \beta } (r)=\left | \psi (r)*  \right \rangle \left \langle \psi (r)* \right |   =
+\begin{pmatrix}
  n_{\uparrow \uparrow } (r) &n_{\uparrow \downarrow } (r) \\
  n_{\downarrow \uparrow} (r) &n_{\downarrow \downarrow} (r)
 \end{pmatrix}

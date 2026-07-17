@@ -57,3 +57,29 @@ $$
 $$
 L.S=L_{z}S_{z}+\frac{1}{2}(L_{+}S_{-}+L_{-}S_{+})[L_{x}S_{x}+L_{y}S_{y}=\frac{1}{2}(L_{+}S_{-}+L_{-}S_{+})]
 $$
+
+$$
+S_{z}=\frac{\hbar }{2}
+\begin{pmatrix}
+1  & 0\\
+0  & -1
+\end{pmatrix};
+S_{+}=\begin{pmatrix}
+0  & 1\\
+0  & 0
+\end{pmatrix};
+S_{-}=\begin{pmatrix}
+0  & 0\\
+1  & 0
+\end{pmatrix};
+\left | \uparrow   \right \rangle =
+\begin{pmatrix}
+1  & \\
+0  & 
+\end{pmatrix};
+\left | \downarrow    \right \rangle =
+\begin{pmatrix}
+0  & \\
+1  & 
+\end{pmatrix}
+$$

@@ -45,3 +45,7 @@ $$
 $$
 SOC{}related{}to{}heavy{}atom:V(r)\sim \frac{-Ze^{2} }{4\pi \varepsilon _{0}r^{3}}\to \frac{1}{r}\frac{\mathrm{d} V}{\mathrm{d} r} =\frac{Ze^{2} }{4\pi \varepsilon _{0}r^{3} }\Longrightarrow SOC\propto Z,\frac{1}{r^{3} }  
 $$
+
+$$
+SOC{}change{}orital{}and{}mix{}spin-up/down
+$$

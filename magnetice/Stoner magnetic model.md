@@ -26,7 +26,7 @@ all{}state{}have{}same{}split
 $$
 
 $$
-split\Longrightarrow occupied{}spin-up/down{}dos{}different n_{\uparrow }\ne n_{\downarrow}\Longrightarrow  new{}magnetic{}moment:F(M)=M_{new}(M)
+split\Longrightarrow occupied{}spin-up/down{}dos{}different{}n_{\uparrow }\ne n_{\downarrow}\Longrightarrow  new{}magnetic{}moment:F(M)=M_{new}(M)
 $$
 
 $$

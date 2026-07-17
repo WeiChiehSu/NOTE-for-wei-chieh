@@ -68,13 +68,5 @@ antisymmetry\Longrightarrow \psi (1,2)=\frac{1}{\sqrt{2} } [\phi_{1}(1) \phi_{2}
 $$
 
 $$
-V_{ee}=\frac{1}{r_{12}}\Longrightarrow \left \langle \psi \right |V_{ee}\left | \psi  \right \rangle  =\frac{1}{2}\int dr_{1}dr_{2}  [\phi_{1}^{*} (1) \phi_{2}^{*}(2)-\phi_{2}^{*}(1)\phi_{1}^{*}(2)]\frac{1}{r_{12}}[\phi_{1}(1) \phi_{2}(2)-\phi_{2}(1)\phi_{1}(2)] 
-$$
-
-$$
-V_{ee}=\frac{1}{r_{12}}\Longrightarrow \left \langle \psi \right |V_{ee}\left | \psi  \right \rangle
-$$
-
-$$
-\phi_{1}^{*} (1) \phi_{2}^{*}(2)-\phi_{2}^{*}(1)\phi_{1}^{*}(2)
+V_{ee}=\frac{1}{r_{12}}\Longrightarrow \left \langle \psi \right |V_{ee}\left | \psi  \right \rangle  =\frac{1}{2}\int dr_{1}dr_{2}  [\phi_{1}^{\star } (1) \phi_{2}^{\star }(2)-\phi_{2}^{\star }(1)\phi_{1}^{\star }(2)]\frac{1}{r_{12}}[\phi_{1}(1) \phi_{2}(2)-\phi_{2}(1)\phi_{1}(2)] 
 $$

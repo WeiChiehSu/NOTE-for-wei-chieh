@@ -133,3 +133,31 @@ L_{z}   & L_{+}   \\
 L_{-}  & -L_{z}
 \end{pmatrix}
 $$
+
+$$
+Colinear:
+\begin{pmatrix}
+H_{\uparrow }   & 0\\
+0  & H_{\downarrow }
+\end{pmatrix}
+\begin{pmatrix}
+\varphi _{\uparrow }   & \\
+\varphi _{\downarrow  }  &
+\end{pmatrix}=
+\varepsilon \begin{pmatrix}
+\varphi _{\uparrow }   & \\
+\varphi _{\downarrow  }  &
+\end{pmatrix}\Longrightarrow 
+\begin{pmatrix}
+H_{\uparrow }+L_{z}   & L_{+}   \\
+L_{-}  & H_{\downarrow }-L_{z}
+\end{pmatrix}
+\begin{pmatrix}
+\varphi _{\uparrow }   & \\
+\varphi _{\downarrow  }  &
+\end{pmatrix}=\varepsilon _{SOC}
+\begin{pmatrix}
+\varphi _{\uparrow }   & \\
+\varphi _{\downarrow  }  &
+\end{pmatrix} 
+$$

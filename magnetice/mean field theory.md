@@ -23,7 +23,7 @@ $$
 $$
 Slater-determinat:\psi (1,2)=
 \begin{vmatrix}
-1  & 1\\
-1  & 2
-\end{vmatrix}
+\phi_{1}(1)  & \phi_{1}(2)\\
+\phi_{2}(1)  & \phi_{2}(2)
+\end{vmatrix}=\phi_{1}(1) \phi_{2}(2)-\phi_{2}(1)\phi_{1}(2)  
 $$

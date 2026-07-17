@@ -94,3 +94,7 @@ $$
 $$
 uniform{}electron{}gas(single{}electron):\phi_{k\sigma }=\frac{1}{\sqrt{\Omega}} e^{ikr}\chi [plane-wave]
 $$
+
+$$
+electron{}gas{}density=Volume{}of{}sphere{}[\left | k \right | \le k_{F} ]
+$$

@@ -52,3 +52,7 @@ $$
 $$
 LSDA:n_{\uparrow },n_{\downarrow};GGA:n_{\uparrow }+ \nabla n_{\uparrow }  ,n_{\downarrow}+\nabla n_{\downarrow }:Meta-GGA:n_{\uparrow }+ \nabla n_{\uparrow }+\tau _{\uparrow }   ,n_{\downarrow}+\nabla n_{\downarrow }+\tau _{\downarrow }
 $$
+
+# LDA uniform electron gas exchange energy
+
+0

@@ -58,6 +58,13 @@ F(0)=0\to F(M\approx 0)=F(M)\approx \frac{dF}{dM}|_{M=0}M\longrightarrow M_{new}
 $$
 
 $$
+\begin{cases}
+  & \frac{\mathrm{d} F(M)}{\mathrm{d} M}|_{M\approx 0}\le 1 \Longrightarrow EX. M_{new}=0.8M_{old}\Longrightarrow M\to M,0.8,0.64M...\Longrightarrow magnetic-vanish \\
+  & \frac{\mathrm{d} F(M)}{\mathrm{d} M}|_{M\approx 0}> 1 \Longrightarrow EX. M_{new}=1.2M_{old}\Longrightarrow M\to M,1.2,1.44M...\Longrightarrow magnetic-create 
+\end{cases}
+$$
+
+$$
 M\ne 0\to \frac{\mathrm{d} F(M)}{\mathrm{d} M}|_{M\approx 0}>1\Longrightarrow F(M)>M
 $$
 

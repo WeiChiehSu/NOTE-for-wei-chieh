@@ -13,3 +13,7 @@ $$
 $$
 p=-i\hbar \nabla ,L=r\times p=-i\hbar r\times  \nabla\to \mu _{orb}=-\frac{\mu_{B}}{\hbar}L=-\frac{\mu _{B} }{\hbar }(-i\hbar r\times  \nabla)\to \mu _{orb}=i\mu _{B}r\times \nabla
 $$
+
+$$
+orbital-magnetic-density: \mu _{orb}=\sum_{i}^{} \left \langle \psi_{i}  \right | \mu _{orb}\left | \psi_{i}   \right \rangle 
+$$

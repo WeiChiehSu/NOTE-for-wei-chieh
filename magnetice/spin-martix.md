@@ -64,7 +64,6 @@ $$
 $$
 
 $$
-=
 \begin{pmatrix}
  n_{\uparrow \uparrow } &0 \\
  0 &n_{\downarrow \downarrow}

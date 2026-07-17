@@ -29,7 +29,7 @@ $$
 $$
 
 $$
-\widehat{H}\psi =(\varepsilon _{1}+ \varepsilon _{2})\phi _{1}(1)\phi _{2}(2)\Longrightarrow fuction{}can{}separate
+\widehat{H}\psi =(\varepsilon _{1}+ \varepsilon _{2})\phi _{1}(1)\phi _{2}(2)\Longrightarrow wave{}fuction{}can{}separate
 $$
 
 # have electron-electron interaction

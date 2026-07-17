@@ -31,3 +31,22 @@ $$
  0 &-1
 \end{pmatrix}
 $$
+
+$$
+\frac{n_{0} }{2} \sigma _{0}=I=
+\begin{pmatrix}
+ \frac{n_{0} }{2} &0 \\
+ 0 &\frac{n_{0} }{2}
+\end{pmatrix}
+;\frac{m_{z}  }{2}\sigma _{z} =
+\begin{pmatrix}
+ \frac{m_{z}  }{2} &0 \\
+ 0 &-\frac{m_{z}  }{2}
+\end{pmatrix}
+\Longrightarrow 
+\frac{n_{0} }{2} \sigma _{0}+\frac{m_{z}  }{2}\sigma _{z} =
+\begin{pmatrix}
+ \frac{n_{0}+m_{z}  }{2} &0 \\
+ 0 &\frac{n_{0}-m_{z}  }{2}
+\end{pmatrix}
+$$

@@ -14,3 +14,7 @@ spin-martix:n(r)=
  0 &n_{\downarrow \downarrow} (r)
 \end{pmatrix}
 $$
+
+$$
+total-density:n_{0}=n_{\uparrow \uparrow }+n_{\downarrow \downarrow};magnetic-density:m_{z}=n_{\uparrow \uparrow }-n_{\downarrow \downarrow}
+$$

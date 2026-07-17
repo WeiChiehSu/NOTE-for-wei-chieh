@@ -50,3 +50,29 @@ $$
  0 &\frac{n_{0}-m_{z}  }{2}
 \end{pmatrix}
 $$
+
+$$
+n_{0}=n_{\uparrow \uparrow }+n_{\downarrow \downarrow},m_{z}= n_{\uparrow \uparrow }-n_{\downarrow \downarrow}
+$$
+
+$$
+\frac{n_{0} }{2} \sigma _{0}+\frac{m_{z}  }{2}\sigma _{z} =
+\begin{pmatrix}
+ \frac{n_{\uparrow \uparrow }+n_{\downarrow \downarrow}+n_{\uparrow \uparrow }-n_{\downarrow \downarrow}  }{2} &0 \\
+ 0 &\frac{n_{\uparrow \uparrow }+n_{\downarrow \downarrow}-n_{\uparrow \uparrow }+n_{\downarrow \downarrow}  }{2}
+\end{pmatrix}
+=
+\begin{pmatrix}
+ n_{\uparrow \uparrow } &0 \\
+ 0 &n_{\downarrow \downarrow}
+\end{pmatrix}
+$$
+
+$$
+n(r)=
+\begin{pmatrix}
+ n_{\uparrow \uparrow } &0 \\
+ 0 &n_{\downarrow \downarrow}
+\end{pmatrix}
+=\frac{1}{2}[n_{0}(r)I+m_{z}\sigma _{z}]
+$$

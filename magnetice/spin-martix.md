@@ -61,6 +61,9 @@ $$
  \frac{n_{\uparrow \uparrow }+n_{\downarrow \downarrow}+n_{\uparrow \uparrow }-n_{\downarrow \downarrow}  }{2} &0 \\
  0 &\frac{n_{\uparrow \uparrow }+n_{\downarrow \downarrow}-n_{\uparrow \uparrow }+n_{\downarrow \downarrow}  }{2}
 \end{pmatrix}
+$$
+
+$$
 =
 \begin{pmatrix}
  n_{\uparrow \uparrow } &0 \\

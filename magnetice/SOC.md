@@ -35,3 +35,11 @@ $$
 $$
 
 $$
+L.S:total-angular-moment-creatived-by-spin/orbital
+\begin{cases}
+  & LS:parallel\to total-angular-moment:maximum \\
+  & LS:antiparallel\to total-angular-moment:minimum
+\end{cases}
+$$
+
+$$

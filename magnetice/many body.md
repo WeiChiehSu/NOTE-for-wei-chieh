@@ -15,3 +15,7 @@ $$
 $$
 \widehat{H}=h_{1}(1)+ h_{2}(2):h_{1}\to electron_{1} ;h_{2}\to electron_{2}
 $$
+
+$$
+h_{1}(1)\phi _{1}(1)=\varepsilon_{1}\phi _{1}(1),h_{2}(2)\phi _{2}(2)=\varepsilon_{2}\phi _{2}(2)
+$$

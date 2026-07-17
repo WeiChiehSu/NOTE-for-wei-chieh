@@ -111,3 +111,6 @@ $$
 \Longrightarrow \frac{E_{x} }{\Omega }=-\frac{1}{2}\sum_{\sigma }\int_{\left | k \right | \le k_{F}}\frac{d^{3}k }{(2\pi )^{3} }\int_{\left | k \right | \le k_{F}}\frac{d^{3}k' }{(2\pi )^{3} }\frac{4\pi }{\left | k-k' \right | }(electron{}denstiy\times energy) \Longrightarrow \frac{E_{x} }{\Omega }=\varepsilon _{x}=-\frac{3k_{F} }{4\pi },k_{F}=(3\pi ^{2}n)^{\frac{1}{3} }    
 $$
 
+$$
+\varepsilon _{x}^{Ha}(n)=-\frac{3}{4}(\frac{3n}{\pi })^{\frac{1}{3}};1Hatree=2Rydberg\Longrightarrow \varepsilon _{x}^{Ry}(n)=-\frac{3}{2}(\frac{3n}{\pi })^{\frac{1}{3}}
+$$

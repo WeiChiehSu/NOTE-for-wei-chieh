@@ -121,3 +121,15 @@ $$
 $$
 \Longrightarrow S_{-}\left | \uparrow  \right \rangle  =\left | \downarrow   \right \rangle ;S_{+}\left | \downarrow   \right \rangle  =\left | \uparrow   \right \rangle;S_{+}\left | \uparrow   \right \rangle  =0;S_{-}\left | \downarrow  \right \rangle  =0
 $$
+
+$$
+L.S=\frac{\hbar }{2}\sigma .L[S=\frac{\hbar }{2}\sigma ] \longrightarrow \sigma _{x}L_{x}+\sigma _{y}L_{y}+\sigma _{z}L_{z}\longrightarrow \sigma .L=
+\begin{pmatrix}
+L_{z}   & L_{x}-iL_{y}  \\
+L_{x}+iL_{y}  & -L_{z}
+\end{pmatrix}=
+\begin{pmatrix}
+L_{z}   & L_{+}   \\
+L_{-}  & -L_{z}
+\end{pmatrix}
+$$

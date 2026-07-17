@@ -51,5 +51,5 @@ SOC{}change{}orital{}and{}mix{}spin-up/down
 $$
 
 $$
-mix{}spin-up/down:
+mix{}spin-up/down:L.S=L_{x}S_{x}+L_{y}S_{y}+L_{z}S_{z}[L_{\pm }=L_{x}\pm iL_{y};S_{\pm }=S_{x}\pm iS_{y}]
 $$

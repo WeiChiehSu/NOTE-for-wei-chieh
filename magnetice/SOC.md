@@ -27,3 +27,11 @@ $$
 $$
 
 $$
+H_{SOC}=\frac{\hbar }{4m^{2}c^{2}  }  \frac{1}{r} \frac{dV}{dr}\sigma .L[S=\frac{\hbar }{2}\sigma ; \sigma =\frac{2}{\hbar}S]\Longrightarrow H_{SOC}=\frac{1}{2m^{2}c^{2}}\frac{1}{r}\frac{dV(r)}{dr}L.S   
+$$
+
+$$
+\frac{1}{2m^{2}c^{2}}\frac{1}{r}\frac{dV(r)}{dr}:soc-strength\to \frac{1}{r}\frac{dV(r)}{dr}:potential{}change{}strength{}near{}nucleus
+$$
+
+$$

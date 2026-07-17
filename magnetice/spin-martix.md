@@ -29,10 +29,7 @@ $$
 \begin{pmatrix}
  1 &0 \\
  0 &-1
-\end{pmatrix}
-$$
-
-$$
+\end{pmatrix} \Longrightarrow
 \frac{n_{0} }{2} \sigma _{0}=I=
 \begin{pmatrix}
  \frac{n_{0} }{2} &0 \\

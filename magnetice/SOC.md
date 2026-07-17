@@ -100,3 +100,20 @@ S_{+}\left | \downarrow   \right \rangle  =
 \end{pmatrix}
 \Longrightarrow S_{+}\left | \downarrow   \right \rangle  =\left | \uparrow   \right \rangle 
 $$
+
+$$
+S_{-}\left | \uparrow  \right \rangle  =
+\begin{pmatrix}
+0  & 0\\
+1  & 0
+\end{pmatrix}
+\begin{pmatrix}
+1  & \\
+0  &
+\end{pmatrix}=
+\begin{pmatrix}
+0  & \\
+1  &
+\end{pmatrix}
+\Longrightarrow S_{-}\left | \uparrow  \right \rangle  =\left | \downarrow   \right \rangle 
+$$

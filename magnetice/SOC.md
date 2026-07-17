@@ -98,5 +98,5 @@ S_{+}\left | \downarrow   \right \rangle  =
 1  & \\
 0  &
 \end{pmatrix}
-\Longrightarrow S_{+}\left | \downarrow   \right \rangle  =\left | \downarrow   \right \rangle 
+\Longrightarrow S_{+}\left | \downarrow   \right \rangle  =\left | \uparrow   \right \rangle 
 $$

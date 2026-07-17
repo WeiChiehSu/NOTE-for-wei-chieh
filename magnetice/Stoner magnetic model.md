@@ -50,6 +50,10 @@ M
 $$
 
 $$
+M\approx 0\overset{Taylor}{\rightarrow} F(M)\approx F(0)+\frac{dF}{dM}|_{M=0}M+O(M^{2} )+.....\to M\approx 0,F(M){}How{}to{}change{}?
+$$
+
+$$
 M\ne 0\to \frac{\mathrm{d} F(M)}{\mathrm{d} M}|_{M\approx 0}>1\Longrightarrow F(M)>M
 $$
 

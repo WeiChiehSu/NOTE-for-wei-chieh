@@ -83,3 +83,20 @@ S_{-}=\begin{pmatrix}
 1  & 
 \end{pmatrix}
 $$
+
+$$
+S_{+}\left | \downarrow   \right \rangle  =
+\begin{pmatrix}
+0  & 1\\
+0  & 0
+\end{pmatrix}
+\begin{pmatrix}
+0  & \\
+1  &
+\end{pmatrix}=
+\begin{pmatrix}
+1  & \\
+0  &
+\end{pmatrix}
+\Longrightarrow S_{+}\left | \downarrow   \right \rangle  =\left | \downarrow   \right \rangle 
+$$

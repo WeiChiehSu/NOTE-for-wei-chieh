@@ -33,3 +33,7 @@ $$
 $$
 
 # have electron-electron interaction
+
+$$
+\widehat{H}=h_{1}(1)+ h_{2}(2)+\frac{1}{\left | r_{1}-r_{2}\right | } 
+$$

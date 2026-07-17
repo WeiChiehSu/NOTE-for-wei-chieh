@@ -17,3 +17,7 @@ $$
 $$
 H_{pauli}=kinetic-energy+potential+Mass-Velocity{}Correction+Darwin{}term+SOC{}term
 $$
+
+$$
+H_{SOC}\propto \sigma .(\nabla V\times p)\to sphere-potential:\nabla V(r)=\frac{dV(r)}{dr}\vec{r}=\frac{dV(r)}{dr}\frac{\hat{r} }{r} 
+$$

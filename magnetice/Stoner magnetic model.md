@@ -54,6 +54,10 @@ M\approx 0\overset{Taylor}{\rightarrow} F(M)\approx F(0)+\frac{dF}{dM}|_{M=0}M+O
 $$
 
 $$
+F(0)=0\to F(M\approx 0)=F(M)\approx \frac{dF}{dM}|_{M=0}M\longrightarrow M_{new} =\frac{dF}{dM}|_{M=0}M
+$$
+
+$$
 M\ne 0\to \frac{\mathrm{d} F(M)}{\mathrm{d} M}|_{M\approx 0}>1\Longrightarrow F(M)>M
 $$
 

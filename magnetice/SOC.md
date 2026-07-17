@@ -161,3 +161,11 @@ L_{-}  & H_{\downarrow }-L_{z}
 \varphi _{\downarrow  }  &
 \end{pmatrix} 
 $$
+
+$$
+\begin{cases}
+  & (H_{\uparrow }+L_{z})\varphi _{\uparrow }+L_{-}\varphi _{\downarrow }=\varepsilon _{\uparrow}^{soc} \varphi _{\uparrow}^{soc}     \\
+  & (H_{\downarrow  }-L_{z})\varphi _{\uparrow }+L_{+}\varphi _{\uparrow  }=\varepsilon _{\downarrow }^{soc} \varphi _{\downarrow }^{soc}
+\end{cases}
+\to SOC{}change{}orital{}and{}mix{}spin-up/down
+$$

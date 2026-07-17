@@ -72,3 +72,7 @@ n(r)=
 \end{pmatrix}
 =\frac{1}{2}[n_{0}(r)I+m_{z}\sigma _{z}]
 $$
+
+$$
+Prove:m_{z}=Tr(n\sigma _{z})
+$$

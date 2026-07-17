@@ -34,6 +34,10 @@ DOS:N(E)=\sum_{i}\delta (E-\varepsilon _{i})[\varepsilon _{i}^{\uparrow \downarr
 $$
 
 $$
+M_{new}=n_{\uparrow }-n_{\downarrow},n_{\uparrow \downarrow }=\int_{-\infty }^{E_{F} } N_{\uparrow \downarrow }(E)dE\to\int_{-\infty }^{E_{F} } N_{\uparrow \downarrow }(E\pm \frac{IM}{2} )dE \longrightarrow N_{\uparrow \downarrow} (E)= \delta (E-\varepsilon _{i}^{\uparrow \downarrow }+\frac{IM}{2})\Longrightarrow  M_{new}=\int_{}^{E_{F} } [N(E+\frac{1}{2}IM)-N(E-\frac{1}{2}IM) ]dE 
+$$
+
+$$
 self-consistent:M[old]=F(M)[new]
 $$
 

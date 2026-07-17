@@ -43,5 +43,5 @@ $$
 $$
 
 $$
-\widehat{H}\psi=\varepsilon _{1}\phi _{1}(1)\phi _{2}(2)+\varepsilon _{2}\phi _{1}(1)\phi _{2}(2)+\frac{1}{\left | r_{1}-r_{2}\right | }\phi _{1}(1)\phi _{2}(2) \Longrightarrow can't{}sperarate
+\widehat{H}\psi=\varepsilon _{1}\phi _{1}(1)\phi _{2}(2)+\varepsilon _{2}\phi _{1}(1)\phi _{2}(2)+\frac{1}{\left | r_{1}-r_{2}\right | }\phi _{1}(1)\phi _{2}(2) \Longrightarrow can't{}separate
 $$

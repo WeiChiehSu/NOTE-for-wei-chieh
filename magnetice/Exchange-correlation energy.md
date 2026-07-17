@@ -59,4 +59,6 @@ $$
 \varepsilon_{xc}[n(r)]= \varepsilon_{x}[n(r)]+\varepsilon_{c}[n(r)]=exchange+corrleation
 $$
 
-
+$$
+exchange\to antisymmetry
+$$

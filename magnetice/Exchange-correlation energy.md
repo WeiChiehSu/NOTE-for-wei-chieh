@@ -90,3 +90,7 @@ $$
 $$
 \Longrightarrow \left \langle \psi \right |V_{ee}\left | \psi  \right \rangle =J_{12}-K_{12}=corrleation(increase)-exchange(decrease)
 $$
+
+$$
+uniform{}electron{}gas(single{}electron):\phi_{k\sigma }=\frac{1}{\sqrt{\Omega}} e^{ikr}\chi [plane-wave]
+$$

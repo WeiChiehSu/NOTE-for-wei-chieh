@@ -82,3 +82,7 @@ $$
 $$
 (2):\frac{1}{2}\int dr_{1}dr_{2}\phi_{1}^{\star } (1) \phi_{2}^{\star }(2)\frac{1}{r_{12}}\phi_{2}(1) \phi_{1}(2)=\int dr_{1}dr_{2}[\phi_{1}^{\star } (1) \phi_{2}(1)]\frac{1}{r_{12}}[\phi_{2}^{\star }(2) \phi_{1}(2)]=K_{12}\Longrightarrow exchange{}between{}1{}and{}2
 $$
+
+$$
+(3):\frac{1}{2}\int dr_{1}dr_{2}\phi_{2}^{\star } (1) \phi_{1}^{\star }(2)\frac{1}{r_{12}}\phi_{1}(1) \phi_{2}(2)=\int dr_{1}dr_{2}[\phi_{2}^{\star } (1) \phi_{1}(1)]\frac{1}{r_{12}}[\phi_{1}^{\star }(2) \phi_{2}(2)]=K_{21}\Longrightarrow K_{21}^{\star }=K_{12}\Longrightarrow K_{21}\Longrightarrow total=2K_{12}
+$$

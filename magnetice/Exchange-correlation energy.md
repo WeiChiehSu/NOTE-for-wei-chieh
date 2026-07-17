@@ -102,3 +102,8 @@ $$
 $$
 n=\frac{2}{\Omega}\int_{\left | k \right | \le k_{F}}\Omega \frac{d^{3}k}{(2\pi)^{3} } =\frac{k_{F}^{3} }{3\pi ^{2} } \Longrightarrow k_{F}=(3\pi ^{2}n)^{\frac{1}{3} } \longrightarrow k_{F}\propto n^{\frac{1}{3} }
 $$
+
+$$
+Exchange-energy:E_{x}=-\frac{1}{2}\sum_{\sigma }\sum_{k,k' }\left \langle k\sigma ,k\sigma' \right | \frac{1}{r_{12} }\left | k'\sigma ,k\sigma  \right \rangle [Fouier:\frac{1}{r}\Leftrightarrow \frac{4\pi }{q^{2} } ]
+$$
+

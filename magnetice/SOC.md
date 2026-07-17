@@ -49,3 +49,7 @@ $$
 $$
 SOC{}change{}orital{}and{}mix{}spin-up/down
 $$
+
+$$
+mix{}spin-up/down:
+$$

@@ -117,3 +117,7 @@ S_{-}\left | \uparrow  \right \rangle  =
 \end{pmatrix}
 \Longrightarrow S_{-}\left | \uparrow  \right \rangle  =\left | \downarrow   \right \rangle 
 $$
+
+$$
+\Longrightarrow S_{-}\left | \uparrow  \right \rangle  =\left | \downarrow   \right \rangle ;S_{+}\left | \downarrow   \right \rangle  =\left | \uparrow   \right \rangle;S_{+}\left | \uparrow   \right \rangle  =0;S_{-}\left | \downarrow  \right \rangle  =0
+$$

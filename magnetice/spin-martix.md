@@ -18,3 +18,16 @@ $$
 $$
 total-density:n_{0}=n_{\uparrow \uparrow }+n_{\downarrow \downarrow};magnetic-density:m_{z}=n_{\uparrow \uparrow }-n_{\downarrow \downarrow}
 $$
+
+$$
+\sigma _{0}=I=
+\begin{pmatrix}
+ 1 &0 \\
+ 0 &1
+\end{pmatrix}
+;\sigma _{z} =
+\begin{pmatrix}
+ 1 &0 \\
+ 0 &-1
+\end{pmatrix}
+$$

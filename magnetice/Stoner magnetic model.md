@@ -26,7 +26,7 @@ all{}state{}have{}same{}split
 $$
 
 $$
-split\Longrightarrow new{}magnetic{}moment:F(M)=\int_{}^{E_{F} } [N(E+\frac{1}{2}IM)-N(E-\frac{1}{2}IM) ]dE
+split\Longrightarrow occupied{}spin-up/down{}dos{}different n_{\uparrow }\ne n_{\downarrow}\Longrightarrow  new{}magnetic{}moment:F(M)=M_{new}(M)
 $$
 
 $$

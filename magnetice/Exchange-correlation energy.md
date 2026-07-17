@@ -55,4 +55,8 @@ $$
 
 # LDA uniform electron gas exchange energy
 
-0
+$$
+\varepsilon_{xc}[n(r)]= \varepsilon_{x}[n(r)]+\varepsilon_{c}[n(r)]=exchange+corrleation
+$$
+
+

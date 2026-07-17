@@ -76,3 +76,19 @@ $$
 $$
 Prove:m_{z}=Tr(n\sigma _{z})
 $$
+
+$$
+n\sigma _{z}=
+\begin{pmatrix}
+ n_{\uparrow \uparrow } &0 \\
+ 0 &n_{\downarrow \downarrow}
+\end{pmatrix}
+\begin{pmatrix}
+ 1 &0 \\
+ 0 &-1
+\end{pmatrix}=
+\begin{pmatrix}
+ n_{\uparrow \uparrow } &0 \\
+ 0 &-n_{\downarrow \downarrow}
+\end{pmatrix}=m_{z}\Longrightarrow Tr(n\sigma _{z})=m_{z} 
+$$

@@ -114,3 +114,7 @@ $$
 $$
 \varepsilon _{x}^{Ha}(n)=-\frac{3}{4}(\frac{3n}{\pi })^{\frac{1}{3}};1Hatree=2Rydberg\Longrightarrow \varepsilon _{x}^{Ry}(n)=-\frac{3}{2}(\frac{3n}{\pi })^{\frac{1}{3}}
 $$
+
+$$
+Total-Exchange{}energy:E_{x}^{LDA}[n]=\int dr n \varepsilon _{x}(n(r))\Longrightarrow E_{x}^{LDA}[n]=-\frac{3}{2}(\frac{3}{\pi })^{\frac{1}{3}}\int n(r)^{\frac{4}{3}}dr\Longrightarrow n\uparrow \longrightarrow K_{F}\uparrow \longrightarrow \varepsilon _{x}\uparrow  
+$$

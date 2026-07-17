@@ -11,3 +11,5 @@ $$
 $$
 
 $$
+electron-electron{}interaction\Longrightarrow electreon{}in{}potential{}from{}other{}electrons
+$$

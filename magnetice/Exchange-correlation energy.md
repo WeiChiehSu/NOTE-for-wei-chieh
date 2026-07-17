@@ -86,3 +86,7 @@ $$
 $$
 (3):\frac{1}{2}\int dr_{1}dr_{2}\phi_{2}^{\star } (1) \phi_{1}^{\star }(2)\frac{1}{r_{12}}\phi_{1}(1) \phi_{2}(2)=\int dr_{1}dr_{2}[\phi_{2}^{\star } (1) \phi_{1}(1)]\frac{1}{r_{12}}[\phi_{1}^{\star }(2) \phi_{2}(2)]=K_{21}\Longrightarrow K_{21}^{\star }=K_{12}\Longrightarrow K_{21}\Longrightarrow total=2K_{12}
 $$
+
+$$
+\Longrightarrow \left \langle \psi \right |V_{ee}\left | \psi  \right \rangle =J_{12}-K_{12}=corrleation(increase)-exchange(decrease)
+$$

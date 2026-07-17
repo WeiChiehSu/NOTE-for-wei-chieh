@@ -61,7 +61,7 @@ $$
 \begin{pmatrix}
  n_{\uparrow \uparrow } &0 \\
  0 &n_{\downarrow \downarrow}
-\end{pmatrix}=n
+\end{pmatrix}=n(r)
 $$
 
 $$

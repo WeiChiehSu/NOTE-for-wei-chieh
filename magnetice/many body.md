@@ -19,3 +19,7 @@ $$
 $$
 h_{1}(1)\phi _{1}(1)=\varepsilon_{1}\phi _{1}(1),h_{2}(2)\phi _{2}(2)=\varepsilon_{2}\phi _{2}(2)
 $$
+
+$$
+\psi=\phi _{1}(1)\phi _{2}(2)\Longrightarrow \widehat{H}\psi=[h_{1}(1)+h_{2}(2)][\phi _{1}(1)\phi _{2}(2)]
+$$

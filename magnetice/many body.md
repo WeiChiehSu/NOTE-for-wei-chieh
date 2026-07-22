@@ -60,3 +60,7 @@ $$
 electron-electron{}interaction\Longrightarrow electron{}in{}potential{}from{}other{}electrons\longrightarrow mean-field
 $$
 
+$$
+many-body \to single-electron
+$$
+

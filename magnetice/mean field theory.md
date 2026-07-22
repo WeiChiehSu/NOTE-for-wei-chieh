@@ -13,27 +13,3 @@ $$
 $$
 electron-electron{}interaction\Longrightarrow electron{}in{}potential{}from{}other{}electrons\longrightarrow mean-field
 $$
-
-# fermion antisymmetry
-
-$$
-electron:fermion\longrightarrow antisymmetry\Longrightarrow \psi (1,2)=\phi_{1}(1) \phi_{2}(2)-\phi_{2}(1)\phi_{1}(2)  
-$$
-
-$$
-Slater-determinat:\psi (1,2)=
-\begin{vmatrix}
-\phi_{1}(1)  & \phi_{1}(2)\\
-\phi_{2}(1)  & \phi_{2}(2)
-\end{vmatrix}=\phi_{1}(1) \phi_{2}(2)-\phi_{2}(1)\phi_{1}(2)  
-$$
-
-$$
-\psi(1....N)=
-\begin{vmatrix}
-\phi_{1}(1)  & \cdots   & \phi_{1}(N)\\
-\vdots   & \ddots   & \vdots \\
-\phi_{N}(1)  & \cdots   & \phi_{N}(N)
-\end{vmatrix}
-\Longrightarrow same-spin-can't-close\longrightarrow exchange
-$$

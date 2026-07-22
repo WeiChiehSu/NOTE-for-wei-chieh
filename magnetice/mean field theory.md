@@ -3,7 +3,7 @@ $$
 $$
 
 $$
-\frac{1}{\left | r_{1}-r_{2}\right | }\Longrightarrow V_{ee}(r_{i})(single-electron-effect-potential)
+\frac{1}{\left | r_{1}-r_{2}\right | }\Longrightarrow V_{ee}(r_{i})(potential-effect-single-electron)
 $$
 
 $$

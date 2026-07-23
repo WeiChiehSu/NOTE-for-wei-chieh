@@ -116,3 +116,15 @@ i  & 0
 0  & -1
 \end{pmatrix}
 $$
+
+$$
+\Longrightarrow n=\frac{1}{2} 
+\begin{pmatrix}
+n_{0} +m_{z}   & m_{x}-im_{y}   \\
+m_{x}+im_{y}  & n_{0}-m_{z}
+\end{pmatrix}\Longrightarrow 
+\begin{pmatrix}
+n_{\uparrow \uparrow } =\frac{n_{0}+m_{z}  }{2}    & n_{\uparrow \downarrow }=\frac{m_{x}-im_{y}}{2}   \\
+n_{\downarrow \uparrow }=\frac{m_{x}+im_{y}}{2}  & n_{\downarrow \downarrow } =\frac{n_{0}-m_{z}}{2}
+\end{pmatrix}
+$$

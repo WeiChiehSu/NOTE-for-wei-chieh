@@ -96,7 +96,11 @@ $$
 # Nocolinear system
 
 $$
-n=\frac{1}{2}(n_{0}I+m_{x}\sigma_{x}+m_{y}\sigma_{y}+m_{z}\sigma_{z})
+n=\frac{1}{2}(n_{0}I+m_{x}\sigma_{x}+m_{y}\sigma_{y}+m_{z}\sigma_{z})\Longrightarrow 
+\begin{pmatrix}
+n_{\uparrow \uparrow }    & n_{\uparrow \downarrow }   \\
+n_{\downarrow \uparrow }  & n_{\downarrow \downarrow }
+\end{pmatrix}
 $$
 
 $$

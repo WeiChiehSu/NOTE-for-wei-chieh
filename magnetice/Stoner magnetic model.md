@@ -99,7 +99,7 @@ $$
 $$
 
 $$
-F(M)=\int_{E_{B}}^{E_{F} } IM\frac{\mathrm{d} N(E)}{\mathrm{d} E}dE\Longrightarrow F(M)\approx IMN(E_{F})\Longrightarrow \frac{\mathrm{d} F(M)}{\mathrm{d} M}\approx IN(E_{F})>1 
+F(M)=\int_{E_{B}}^{E_{F} } IM\frac{\mathrm{d} N(E)}{\mathrm{d} E}dE\Longrightarrow F(M)\approx IMN(E_{F})-IMN(E_{B})[N(E_{B})=0] \to F(M)\approx IMN(E_{F}) \Longrightarrow \frac{\mathrm{d} F(M)}{\mathrm{d} M}\approx IN(E_{F})>1 
 $$
 
 $$

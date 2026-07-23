@@ -9,7 +9,7 @@ Magnetic{}moment\Longrightarrow spin-up/down{}potential{}different{}by{}xc
 $$
 
 $$
-g(M)\equiv v_{xc}^{\uparrow }-v_{xc}^{\downarrow}  \overset{taylor}{\rightarrow}g(M)=\frac{\partial v_{xc}^{\uparrow }-v_{xc}^{\downarrow}}{\partial M}| _{M=0}  
+g(M)\equiv v_{xc}^{\uparrow }-v_{xc}^{\downarrow}  \overset{taylor}{\rightarrow}g(M)=\frac{(\partial v_{xc}^{\uparrow }-v_{xc}^{\downarrow})}{\partial M}| _{M=0}  
 $$
 
 $$

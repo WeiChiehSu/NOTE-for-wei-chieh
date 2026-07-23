@@ -95,4 +95,24 @@ $$
 
 # Nocolinear system
 
-q
+$$
+n=\frac{1}{2}(n_{0}I+m_{x}\sigma_{x}+m_{y}\sigma_{y}+m_{z}\sigma_{z})
+$$
+
+$$
+\sigma_{x}=
+\begin{pmatrix}
+0  & 1 \\
+1  & 0
+\end{pmatrix};
+\sigma_{y}=
+\begin{pmatrix}
+0  & -i \\
+i  & 0
+\end{pmatrix};
+\sigma_{z}=
+\begin{pmatrix}
+1  & 0 \\
+0  & -1
+\end{pmatrix}
+$$

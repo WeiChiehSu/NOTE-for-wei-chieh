@@ -13,7 +13,7 @@ g(M)\equiv v_{xc}^{\uparrow }-v_{xc}^{\downarrow}  \overset{taylor}{\rightarrow}
 $$
 
 $$
-spin-up/down{}potential{}different\Longrightarrow band{}split:\Delta \varepsilon _{i}=\varepsilon_{i}^{\uparrow }-\varepsilon_{i}^{\downarrow  }\approx M\left \langle \psi_{i}  \right |\frac{\partial v_{xc}^{\uparrow }-v_{xc}^{\downarrow}}{\partial M}\left | \psi_{i}   \right \rangle  
+spin-up/down{}potential{}different\Longrightarrow band{}split:\Delta \varepsilon _{i}=\varepsilon_{i}^{\uparrow }-\varepsilon_{i}^{\downarrow  }\approx M\left \langle \psi_{i}  \right |\frac{\partial v_{xc}^{\uparrow }-\partial v_{xc}^{\downarrow}}{\partial M}\left | \psi_{i}   \right \rangle  
 $$
 
 $$

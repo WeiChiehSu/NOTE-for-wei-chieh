@@ -87,6 +87,10 @@ $$
 $$
 
 $$
+[Taylor:f(x+a)\approx f(x)+af{}'(x);f(x-a)\approx f(x)-af{}'(x) ]
+$$
+
+$$
 F(M)=\int_{}^{E_{F} } IM\frac{\mathrm{d} N(E)}{\mathrm{d} E}dE\Longrightarrow F(M)\approx IMN(E_{F})\Longrightarrow \frac{\mathrm{d} F(M)}{\mathrm{d} M}\approx IN(E_{F})>1 
 $$
 

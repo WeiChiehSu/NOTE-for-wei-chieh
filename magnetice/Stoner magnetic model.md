@@ -91,6 +91,14 @@ $$
 $$
 
 $$
+[f(E)=N(E),a=\frac{1}{2} IM]\Longrightarrow 
+\begin{cases}
+  & N(E+\frac{1}{2})IM\approx N(E)+ \frac{1}{2} IMN{}'(E)  \\
+  & N(E-\frac{1}{2})IM\approx N(E)- \frac{1}{2} IMN{}'(E)
+\end{cases}
+$$
+
+$$
 F(M)=\int_{}^{E_{F} } IM\frac{\mathrm{d} N(E)}{\mathrm{d} E}dE\Longrightarrow F(M)\approx IMN(E_{F})\Longrightarrow \frac{\mathrm{d} F(M)}{\mathrm{d} M}\approx IN(E_{F})>1 
 $$
 

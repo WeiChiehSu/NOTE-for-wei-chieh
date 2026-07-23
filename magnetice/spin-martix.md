@@ -128,3 +128,7 @@ n_{\uparrow \uparrow } =\frac{n_{0}+m_{z}  }{2}    & n_{\uparrow \downarrow }=\f
 n_{\downarrow \uparrow }=\frac{m_{x}+im_{y}}{2}  & n_{\downarrow \downarrow } =\frac{n_{0}-m_{z}}{2}
 \end{pmatrix}
 $$
+
+$$
+n_{0}=n_{\uparrow \uparrow }+n_{\downarrow \downarrow };m_{z}=n_{\uparrow \uparrow }-n_{\downarrow \downarrow };m_{x}=n_{\uparrow \downarrow }+n_{\downarrow \uparrow };m_{y}=i(n_{\uparrow \downarrow }-n_{\downarrow \uparrow }) 
+$$

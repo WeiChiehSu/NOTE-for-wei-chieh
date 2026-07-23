@@ -30,7 +30,7 @@ split\Longrightarrow occupied{}spin-up/down{}dos{}different{}n_{\uparrow }\ne n_
 $$
 
 $$
-DOS:N(E)=\sum_{i}\delta (E-\varepsilon _{i}) \to 
+DOS:N(E)=\sum_{i}\delta (E-\varepsilon _{i}) 
 \begin{cases}
   & \varepsilon _{i}^{\uparrow }=\varepsilon _{i}-\frac{1}{2}IM \\
   & \varepsilon _{i}^{\downarrow }=\varepsilon _{i}+\frac{1}{2}IM 

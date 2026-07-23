@@ -92,3 +92,7 @@ n\sigma _{z}=
  0 &-n_{\downarrow \downarrow}
 \end{pmatrix}=m_{z}\Longrightarrow Tr(n\sigma _{z})=m_{z} 
 $$
+
+# Nocolinear system
+
+q

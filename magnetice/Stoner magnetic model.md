@@ -35,7 +35,12 @@ DOS:N(E)=\sum_{i}\delta (E-\varepsilon _{i})
   & \varepsilon _{i}^{\uparrow }=\varepsilon _{i}-\frac{1}{2}IM \\
   & \varepsilon _{i}^{\downarrow }=\varepsilon _{i}+\frac{1}{2}IM 
 \end{cases}
-\longrightarrow N_{\uparrow \downarrow} (E)= \delta (E-\varepsilon _{i}^{\uparrow \downarrow }+\frac{IM}{2})\to 
+\longrightarrow 
+\begin{cases}
+  & N_{\uparrow } (E)= \delta (E - \varepsilon_{i}^{\uparrow }   + \frac{IM}{2}) \\
+  & N_{\downarrow} (E)= \delta (E - \varepsilon_{i}^{\downarrow } - \frac{IM}{2})
+\end{cases}
+\to 
 \begin{cases}
   & N_{\uparrow } (E)= \delta (E + \frac{IM}{2}) \\
   & N_{\downarrow} (E)= \delta (E- \frac{IM}{2})

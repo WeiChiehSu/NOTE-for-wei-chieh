@@ -63,6 +63,8 @@ $$
 exchange\to antisymmetry
 $$
 
+# Hartree–Fock --> exchange
+
 $$
 electron:fermion\longrightarrow antisymmetry\Longrightarrow \psi (1,2)=\phi_{1}(1) \phi_{2}(2)-\phi_{2}(1)\phi_{1}(2)  
 $$

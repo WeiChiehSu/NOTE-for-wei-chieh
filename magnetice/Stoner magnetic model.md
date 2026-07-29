@@ -93,8 +93,8 @@ $$
 $$
 [f(E)=N(E),a=\frac{1}{2} IM]\Longrightarrow 
 \begin{cases}
-  & N(E+\frac{1}{2})IM\approx N(E)+ \frac{1}{2} IMN{}'(E)  \\
-  & N(E-\frac{1}{2})IM\approx N(E)- \frac{1}{2} IMN{}'(E)
+  & N(E+\frac{1}{2}IM)\approx N(E)+ \frac{1}{2} IMN{}'(E)  \\
+  & N(E-\frac{1}{2}IM)\approx N(E)- \frac{1}{2} IMN{}'(E)
 \end{cases}
 $$
 

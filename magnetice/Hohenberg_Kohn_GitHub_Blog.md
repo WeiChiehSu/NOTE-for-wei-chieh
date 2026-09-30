@@ -177,7 +177,9 @@ $$
 By exchanging the two systems and applying the same argument,
 
 $$
-E' < E + \int d^3r\ n(r) [V'(r)-V(r)] \tag{2}
+E' < E + \int d^3\mathbf r\, n(\mathbf r)
+\left[V'(\mathbf r)-V(\mathbf r)\right]
+\qquad (2)
 $$
 
 將式 $(1)$ 與式 $(2)$ 相加

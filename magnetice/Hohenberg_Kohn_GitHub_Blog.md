@@ -45,9 +45,7 @@ which means that integrating the electron density over all space gives the total
 The external-potential operator can be written as
 
 $$
-\hat V_{\mathrm{ext}}
-=
-\sum_i V(\mathbf r_i).
+\hat V_{\mathrm{ext}}=\sum_i V(\mathbf r_i).
 $$
 
 它的期望值為
@@ -55,13 +53,7 @@ $$
 Its expectation value is
 
 $$
-\left\langle \Psi\left|\hat V_{\mathrm{ext}}\right|\Psi\right\rangle
-=
-\left\langle \Psi\left|
-\sum_i V(\mathbf r_i)
-\right|\Psi\right\rangle
-=
-\int V(\mathbf r)n(\mathbf r)\,d^3r.
+\left\langle \Psi\left|\hat V_{\mathrm{ext}}\right|\Psi\right\rangle=\left\langle \Psi\left|\sum_i V(\mathbf r_i)\right|\Psi\right\rangle=\int V(\mathbf r)n(\mathbf r)\,d^3r.
 $$
 
 因此，外部勢能的貢獻可以直接寫成外部勢 $V(\mathbf r)$ 與電子密度 $n(\mathbf r)$ 的積分。
@@ -77,9 +69,7 @@ Therefore, the contribution from the external potential can be written directly 
 The first Hohenberg–Kohn theorem states that the ground-state density $n_0(\mathbf r)$ uniquely determines the external potential $V(\mathbf r)$, up to an additive constant $C$.
 
 $$
-n_0(\mathbf r)
-\Longleftrightarrow
-V(\mathbf r)+C.
+n_0(\mathbf r) \Longleftrightarrow V(\mathbf r)+C.
 $$
 
 由於外部勢決定 Hamiltonian，而 Hamiltonian 又決定基態波函數，因此

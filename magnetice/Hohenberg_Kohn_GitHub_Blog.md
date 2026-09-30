@@ -157,13 +157,8 @@ $$
 \left\langle \Psi'\left|
 \hat V_{\mathrm{ext}}-\hat V'_{\mathrm{ext}}
 \right|\Psi'\right\rangle
-&=
-\left\langle \Psi'\left|
-\sum_i\left[V(\mathbf r_i)-V'(\mathbf r_i)\right]
-\right|\Psi'\right\rangle\\
-&=
-\int d^3r\,n'(\mathbf r)
-\left[V(\mathbf r)-V'(\mathbf r)\right].
+&= \left\langle \Psi'\left| \sum_i\left[V(\mathbf r_i)-V'(\mathbf r_i)\right] \right|\Psi'\right\rangle\\
+&= \int d^3r\,n'(\mathbf r) \left[V(\mathbf r)-V'(\mathbf r)\right].
 \end{aligned}
 $$
 

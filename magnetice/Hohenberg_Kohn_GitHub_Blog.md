@@ -167,7 +167,9 @@ $$
 Because we assumed $n'(\mathbf r)=n(\mathbf r)$,
 
 $$
-E < E' + \int d^3r\,n(\mathbf r) \left[V(\mathbf r)-V'(\mathbf r)\right]. \tag{1}
+E < E' + \int d^3\mathbf r\, n(\mathbf r)
+\left[V(\mathbf r)-V'(\mathbf r)\right]
+\qquad (1)
 $$
 
 交換兩個系統，以同樣的方法得到

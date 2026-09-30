@@ -11,9 +11,7 @@ In density functional theory (DFT), the ground state is described using the elec
 The electron density can be written as
 
 $$
-n(\mathbf r)
-=
-\left\langle \Psi \left|
+n(\mathbf r)=\left\langle \Psi \left|
 \sum_i \delta(\mathbf r-\mathbf r_i)
 \right| \Psi \right\rangle .
 $$

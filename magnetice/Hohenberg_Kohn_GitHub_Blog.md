@@ -172,13 +172,7 @@ $$
 Because we assumed $n'(\mathbf r)=n(\mathbf r)$,
 
 $$
-E
-<
-E'
-+
-\int d^3r\,n(\mathbf r)
-\left[V(\mathbf r)-V'(\mathbf r)\right].
-\tag{1}
+E < E' + \int d^3r\,n(\mathbf r) \left[V(\mathbf r)-V'(\mathbf r)\right]. \tag{1}
 $$
 
 交換兩個系統，以同樣的方法得到
@@ -186,13 +180,7 @@ $$
 By exchanging the two systems and applying the same argument,
 
 $$
-E'
-<
-E
-+
-\int d^3r\,n(\mathbf r)
-\left[V'(\mathbf r)-V(\mathbf r)\right].
-\tag{2}
+E' < E + \int d^3r\,n(\mathbf r) \left[V'(\mathbf r)-V(\mathbf r)\right]. \tag{2}
 $$
 
 將式 $(1)$ 與式 $(2)$ 相加
@@ -200,9 +188,7 @@ $$
 Adding Eqs. $(1)$ and $(2)$ gives
 
 $$
-E+E'
-<
-E'+E.
+E+E' < E'+E.
 $$
 
 這是一個矛盾。
@@ -234,11 +220,7 @@ $$
 then
 
 $$
-\hat V'_{\mathrm{ext}}
-=
-\sum_i\left[V(\mathbf r_i)+C\right]
-=
-\hat V_{\mathrm{ext}}+NC.
+\hat V'_{\mathrm{ext}} = \sum_i\left[V(\mathbf r_i)+C\right] = \hat V_{\mathrm{ext}}+NC.
 $$
 
 因此
@@ -246,9 +228,7 @@ $$
 Therefore,
 
 $$
-\hat H'
-=
-\hat H+NC.
+\hat H' = \hat H+NC.
 $$
 
 若
@@ -264,9 +244,7 @@ $$
 then
 
 $$
-(\hat H+NC)\Psi
-=
-(E+NC)\Psi.
+(\hat H+NC)\Psi = (E+NC)\Psi.
 $$
 
 也就是說，加上一個常數只會讓整個能量做整體平移，不會改變波函數與電子密度。
@@ -282,13 +260,7 @@ This means that adding a constant only shifts the total energy by an overall con
 The first Hohenberg–Kohn theorem gives
 
 $$
-n_0(\mathbf r)
-\rightarrow
-V(\mathbf r)
-\rightarrow
-\hat H
-\rightarrow
-\Psi_0.
+n_0(\mathbf r) \rightarrow V(\mathbf r) \rightarrow \hat H \rightarrow \Psi_0.
 $$
 
 因此所有基態物理量都可以寫成電子密度的泛函
@@ -304,13 +276,7 @@ $$
 The ground-state energy is
 
 $$
-E_0
-=
-\left\langle \Psi_0\left|
-\hat T+\hat V_{ee}
-\right|\Psi_0\right\rangle
-+
-\int d^3r\,V(\mathbf r)n_0(\mathbf r).
+E_0 = \left\langle \Psi_0\left| \hat T+\hat V_{ee} \right|\Psi_0\right\rangle + \int d^3r\,V(\mathbf r)n_0(\mathbf r).
 $$
 
 由於 $\Psi_0$ 由 $n_0$ 決定，因此動能與電子－電子交互作用能也可以視為電子密度的泛函：
@@ -318,13 +284,7 @@ $$
 Since $\Psi_0$ is determined by $n_0$, the kinetic and electron–electron interaction energies can also be regarded as functionals of the density:
 
 $$
-E_0
-=
-T[n_0]
-+
-V_{ee}[n_0]
-+
-\int d^3r\,V(\mathbf r)n_0(\mathbf r).
+E_0 = T[n_0] + V_{ee}[n_0] + \int d^3r\,V(\mathbf r)n_0(\mathbf r).
 $$
 
 ---
@@ -336,11 +296,7 @@ $$
 The second Hohenberg–Kohn theorem states that for any allowed trial electron density $n(\mathbf r)$, the energy functional cannot be lower than the ground-state energy obtained from the true ground-state density $n_0(\mathbf r)$.
 
 $$
-E_V[n]
-\ge
-E_V[n_0]
-=
-E_0.
+E_V[n] \ge E_V[n_0] = E_0.
 $$
 
 這可以視為從波函數的量子力學變分原理，轉換成電子密度的變分原理。
@@ -356,9 +312,7 @@ This can be viewed as transforming the quantum-mechanical variational principle 
 In quantum mechanics,
 
 $$
-\hat H
-=
-\hat T+\hat V_{ee}+\hat V_{\mathrm{ext}},
+\hat H = \hat T+\hat V_{ee}+\hat V_{\mathrm{ext}},
 $$
 
 且真實基態滿足
@@ -374,9 +328,7 @@ $$
 For any trial wave function $\Psi$, the variational principle gives
 
 $$
-\left\langle \Psi\left|\hat H\right|\Psi\right\rangle
-\ge
-E_0.
+\left\langle \Psi\left|\hat H\right|\Psi\right\rangle \ge E_0.
 $$
 
 根據第一 Hohenberg–Kohn 定理，可以定義電子密度的能量泛函
@@ -384,13 +336,7 @@ $$
 Using the first Hohenberg–Kohn theorem, we can define the energy functional of the electron density as
 
 $$
-E_V[n]
-=
-T[n]
-+
-V_{ee}[n]
-+
-\int d^3r\,V(\mathbf r)n(\mathbf r).
+E_V[n] = T[n] + V_{ee}[n] + \int d^3r\,V(\mathbf r)n(\mathbf r).
 $$
 
 考慮一個試探電子密度 $n(\mathbf r)$，需要滿足
@@ -414,15 +360,7 @@ $$
 Let the wave function corresponding to this density be $\Psi[n]$. Then
 
 $$
-E_V[n]
-=
-\left\langle \Psi[n]\left|
-\hat T+\hat V_{ee}
-\right|\Psi[n]\right\rangle
-+
-\left\langle \Psi[n]\left|
-\hat V_{\mathrm{ext}}
-\right|\Psi[n]\right\rangle.
+E_V[n] = \left\langle \Psi[n]\left| \hat T+\hat V_{ee} \right|\Psi[n]\right\rangle + \left\langle \Psi[n]\left| \hat V_{\mathrm{ext}} \right|\Psi[n]\right\rangle.
 $$
 
 由於
@@ -430,11 +368,7 @@ $$
 Since
 
 $$
-\left\langle \Psi[n]\left|
-\hat V_{\mathrm{ext}}
-\right|\Psi[n]\right\rangle
-=
-\int d^3r\,V(\mathbf r)n(\mathbf r),
+\left\langle \Psi[n]\left| \hat V_{\mathrm{ext}} \right|\Psi[n]\right\rangle = \int d^3r\,V(\mathbf r)n(\mathbf r),
 $$
 
 所以
@@ -442,9 +376,7 @@ $$
 we have
 
 $$
-E_V[n]
-=
-\left\langle \Psi[n]\left|\hat H\right|\Psi[n]\right\rangle.
+E_V[n] = \left\langle \Psi[n]\left|\hat H\right|\Psi[n]\right\rangle.
 $$
 
 再使用量子力學的變分原理
@@ -452,11 +384,7 @@ $$
 Using the quantum-mechanical variational principle again,
 
 $$
-\left\langle \Psi[n]\left|\hat H\right|\Psi[n]\right\rangle
-\ge
-\left\langle \Psi_0\left|\hat H\right|\Psi_0\right\rangle
-=
-E_0.
+\left\langle \Psi[n]\left|\hat H\right|\Psi[n]\right\rangle \ge \left\langle \Psi_0\left|\hat H\right|\Psi_0\right\rangle = E_0.
 $$
 
 因此
@@ -464,11 +392,7 @@ $$
 Therefore,
 
 $$
-E_V[n]
-\ge
-E_V[n_0]
-=
-E_0.
+E_V[n] \ge E_V[n_0] = E_0.
 $$
 
 也就是：任意試探電子密度所算出的能量，都不會低於真正的基態能量；當 $n(\mathbf r)=n_0(\mathbf r)$ 時，能量取得最小值。
@@ -484,15 +408,7 @@ That is, the energy calculated from any trial density cannot be lower than the t
 First Hohenberg–Kohn theorem:
 
 $$
-n_0(\mathbf r)
-\Longrightarrow
-V(\mathbf r)+C
-\Longrightarrow
-\hat H
-\Longrightarrow
-\Psi_0
-\Longrightarrow
-\text{all ground-state properties}.
+n_0(\mathbf r) \Longrightarrow V(\mathbf r)+C \Longrightarrow \hat H \Longrightarrow \Psi_0 \Longrightarrow \text{all ground-state properties}.
 $$
 
 第二 Hohenberg–Kohn 定理：
@@ -500,11 +416,7 @@ $$
 Second Hohenberg–Kohn theorem:
 
 $$
-E_V[n]
-\ge
-E_V[n_0]
-=
-E_0.
+E_V[n] \ge E_V[n_0] = E_0.
 $$
 
 因此，DFT 可以把原本以多體波函數為基本變數的量子力學問題，轉換成以電子密度 $n(\mathbf r)$ 為基本變數的問題。

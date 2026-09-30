@@ -77,13 +77,7 @@ $$
 Since the external potential determines the Hamiltonian, and the Hamiltonian determines the ground-state wave function,
 
 $$
-V(\mathbf r)
-\rightarrow
-\hat H
-\rightarrow
-\Psi_0
-\rightarrow
-\text{ground-state physics}.
+V(\mathbf r) \rightarrow \hat H \rightarrow \Psi_0 \rightarrow \text{ground-state physics}.
 $$
 
 換句話說，若知道基態電子密度，就能決定基態的所有物理量。
@@ -107,15 +101,11 @@ $$
 The corresponding Hamiltonians are
 
 $$
-\hat H
-=
-\hat T+\hat V_{ee}+\hat V_{\mathrm{ext}},
+\hat H = \hat T+\hat V_{ee}+\hat V_{\mathrm{ext}},
 $$
 
 $$
-\hat H'
-=
-\hat T+\hat V_{ee}+\hat V'_{\mathrm{ext}}.
+\hat H' = \hat T+\hat V_{ee}+\hat V'_{\mathrm{ext}}.
 $$
 
 其中
@@ -123,13 +113,7 @@ $$
 where
 
 $$
-\hat V_{\mathrm{ext}}
-=
-\sum_i V(\mathbf r_i),
-\qquad
-\hat V'_{\mathrm{ext}}
-=
-\sum_i V'(\mathbf r_i).
+\hat V_{\mathrm{ext}} = \sum_i V(\mathbf r_i), \qquad \hat V'_{\mathrm{ext}} = \sum_i V'(\mathbf r_i).
 $$
 
 令 $\Psi$ 與 $\Psi'$ 分別是 $\hat H$ 與 $\hat H'$ 的真實基態，對應能量為 $E$ 與 $E'$。
@@ -141,9 +125,7 @@ Let $\Psi$ and $\Psi'$ be the true ground states of $\hat H$ and $\hat H'$, with
 According to the quantum-mechanical variational principle, for the Hamiltonian $\hat H$, the expectation value obtained from any trial wave function other than its true ground state must be higher than the true ground-state energy. Therefore,
 
 $$
-E
-<
-\left\langle \Psi'\left|\hat H\right|\Psi'\right\rangle .
+E < \left\langle \Psi'\left|\hat H\right|\Psi'\right\rangle .
 $$
 
 因為
@@ -151,11 +133,7 @@ $$
 Since
 
 $$
-\hat H
-=
-\hat H'
-+
-\left(\hat V_{\mathrm{ext}}-\hat V'_{\mathrm{ext}}\right),
+\hat H = \hat H' + \left(\hat V_{\mathrm{ext}}-\hat V'_{\mathrm{ext}}\right),
 $$
 
 所以
@@ -165,18 +143,8 @@ we obtain
 $$
 \begin{aligned}
 \left\langle \Psi'\left|\hat H\right|\Psi'\right\rangle
-&=
-\left\langle \Psi'\left|\hat H'\right|\Psi'\right\rangle
-+
-\left\langle \Psi'\left|
-\hat V_{\mathrm{ext}}-\hat V'_{\mathrm{ext}}
-\right|\Psi'\right\rangle\\
-&=
-E'
-+
-\left\langle \Psi'\left|
-\hat V_{\mathrm{ext}}-\hat V'_{\mathrm{ext}}
-\right|\Psi'\right\rangle .
+& = \left\langle \Psi'\left|\hat H'\right|\Psi'\right\rangle + \left\langle \Psi'\left| \hat V_{\mathrm{ext}}-\hat V'_{\mathrm{ext}} \right|\Psi'\right\rangle\\
+& = E'+ \left\langle \Psi'\left| \hat V_{\mathrm{ext}}-\hat V'_{\mathrm{ext}} \right|\Psi'\right\rangle .
 \end{aligned}
 $$
 

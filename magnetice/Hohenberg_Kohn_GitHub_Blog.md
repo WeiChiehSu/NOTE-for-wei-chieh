@@ -19,9 +19,7 @@ $$
 For an $N$-electron system, it can also be written as
 
 $$
-n(\mathbf r)
-=
-N\int
+n(\mathbf r)=N\int
 \left|\Psi(\mathbf r,\mathbf r_2,\ldots,\mathbf r_N)\right|^2
 \,d^3r_2\cdots d^3r_N .
 $$

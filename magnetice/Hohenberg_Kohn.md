@@ -101,11 +101,11 @@ $$
 The corresponding Hamiltonians are
 
 $$
-\hat H = \hat T+\hat V_{ee}+\hat V_{\mathrm{ext}},
+\hat H = \hat T+\hat V_{ee}+\hat V_{\mathrm{ext}},\hat H\Psi=E\Psi,
 $$
 
 $$
-\hat H' = \hat T+\hat V_{ee}+\hat V'_{\mathrm{ext}}.
+\hat H' = \hat T+\hat V_{ee}+\hat V'_{\mathrm{ext}},\hat H'\Psi'=E'\Psi'.
 $$
 
 其中

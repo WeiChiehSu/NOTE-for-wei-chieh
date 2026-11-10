@@ -1,2 +1,2 @@
 # NOTE-for-wei-chieh
-physics note
+physics note and python partice file

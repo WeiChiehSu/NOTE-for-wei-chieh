@@ -1,0 +1,5 @@
+Material: Nb
+Method: DFPT
+Electron-phonon coupling: 0.90
+Logarithmic phonon frequency: 180.0 K
+Critical temperature: 10.54 K

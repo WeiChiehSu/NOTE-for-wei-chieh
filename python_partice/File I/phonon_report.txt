@@ -1,0 +1,5 @@
+Material: Nb
+Calculation: Phonon
+Frequency unit: THz
+Minimum frequency: -0.5
+Maximum frequency: 6.0

@@ -1,0 +1,3 @@
+Minimum frequency: -0.5
+Maximum frequency: 6.0
+Frequency difference: 6.5
